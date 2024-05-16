@@ -1,49 +1,50 @@
 
 **Code Artist**, **Architect**, **Musician**  
-
+  
+  
 [GitHub](https://github.com/foo123)  [StackOverflow](https://stackoverflow.com/users/3591273/nikos-m)  [#Standup4HumanRights](https://www.standup4humanrights.org/en/index.html)  
   
   
   
   
-## Open Source Projects
+### Open Source Projects
 
 
-* [Frameworks / Libraries](#frameworks) Frameworks, Libraries, Engines, ..
+* [Frameworks / Libraries](#mycat_frameworks) Frameworks, Libraries, Engines, ..
 
 
-* [DSP / Machine Learning](#dsp) Signal Processing, Image / Video Processing, Feature Detection, Computer Vision, DSP, Machine Learning, Sound Visualization, ..
+* [DSP / Machine Learning](#mycat_dsp) Signal Processing, Image / Video Processing, Feature Detection, Computer Vision, DSP, Machine Learning, Sound Visualization, ..
 
 
-* [Engines / Processors / Pattern Processing](#processors) Pattern Processing, Parsers, Processors, Template Engines, Grammars, ..
+* [Engines / Processors / Pattern Processing](#mycat_processors) Pattern Processing, Parsers, Processors, Template Engines, Grammars, ..
 
 
-* [Mathematics / Combinatorics / Logic / Optimization](#math) Combinatorics, Mathematics, Logic, Constraints, Optimization, ..
+* [Mathematics / Combinatorics / Logic / Optimization](#mycat_math) Combinatorics, Mathematics, Logic, Constraints, Optimization, ..
 
 
-* [Graphics / 3D / Animation](#graphics) Graphics, Animation, 3D, Transition Libraries, Slideshows, ..
+* [Graphics / 3D / Animation](#mycat_graphics) Graphics, Animation, 3D, Transition Libraries, Slideshows, ..
 
 
-* [Plugins / Add-Ons](#plugins) Plugins, Add-Ons, Extensions, Modules, Scripts, ..
+* [Plugins / Add-Ons](#mycat_plugins) Plugins, Add-Ons, Extensions, Modules, Scripts, ..
 
 
-* [Demo Applications](#apps) Demo Applications
+* [Demo Applications](#mycat_apps) Demo Applications
 
 
-* [Simple Games](#games) Simple games, game ideas, ..
+* [Simple Games](#mycat_games) Simple games, game ideas, ..
 
 
-* [Tools / Scripts](#tools) Various Tools &amp; Scripts for automation tasks..
+* [Tools / Scripts](#mycat_tools) Various Tools &amp; Scripts for automation tasks..
 
 
-* [Various experiments](#various) Various experiments, studies, demos, ..
+* [Various experiments](#mycat_various) Various experiments, studies, demos, ..
 
 
   
   
 
 
-<h3 id="frameworks">Frameworks / Libraries</h3>  
+<h2 id="mycat_frameworks">Frameworks / Libraries</h2>  
 
 * [tico: tiny, super-simple but versatile quasi-MVC web framework for PHP](https://github.com/foo123/tico)
 
@@ -127,7 +128,7 @@
 
 
 
-<h3 id="dsp">DSP / Machine Learning</h3>  
+<h2 id="mycat_dsp">DSP / Machine Learning</h2>  
 
 * [Filter.js: pure JavaScript Library for real-time Video &amp; Image Processing, Filtering &amp; Computer Vision (browser &amp; node.js)](https://foo123.github.io/examples/filter/)
 
@@ -151,7 +152,7 @@
 
 
 
-<h3 id="processors">Engines / Processors / Pattern Processing</h3>  
+<h2 id="mycat_processors">Engines / Processors / Pattern Processing</h2>  
 
 * [Regular Expression Analyser for PHP, Python and JavaScript](https://foo123.github.io/examples/regex-analyzer/)
 
@@ -185,7 +186,7 @@
 
 
 
-<h3 id="math">Mathematics / Combinatorics / Logic / Optimization</h3>  
+<h2 id="mycat_math">Mathematics / Combinatorics / Logic / Optimization</h2>  
 
 * [Abacus: Combinatorics &amp; Number Theory symbolic computation library for JavaScript and Python](https://foo123.github.io/examples/abacus/)
 
@@ -221,7 +222,7 @@
 
 
 
-<h3 id="graphics">Graphics / 3D / Animation</h3>  
+<h2 id="mycat_graphics">Graphics / 3D / Animation</h2>  
 
 * [Imagik: Fully-Featured, Fully-Customisable and Extendable Responsive CSS3 Slideshow](https://foo123.github.io/examples/imagik/)
 
@@ -271,7 +272,7 @@
 
 
 
-<h3 id="plugins">Plugins / Add-Ons</h3>  
+<h2 id="mycat_plugins">Plugins / Add-Ons</h2>  
 
 * [Transform a grammar in JSON format to a Codemirror syntax-highlight mode with Codemirror Grammar](https://foo123.github.io/examples/codemirror-grammar/)
 
@@ -299,7 +300,7 @@
 
 
 
-<h3 id="apps">Demo Applications</h3>  
+<h2 id="mycat_apps">Demo Applications</h2>  
 
 * [Abacus: Combinatorics &amp; Number Theory symbolic computation library for JavaScript and Python](https://foo123.github.io/examples/abacus/)
 
@@ -355,7 +356,7 @@
 
 
 
-<h3 id="games">Simple Games</h3>  
+<h2 id="mycat_games">Simple Games</h2>  
 
 * [Sample Billiard game in pure JavaScript with Neraliu's NEngine.js](https://foo123.github.io/examples/billiard.js/)
 
@@ -371,7 +372,7 @@
 
 
 
-<h3 id="tools">Tools / Scripts</h3>  
+<h2 id="mycat_tools">Tools / Scripts</h2>  
 
 * [Beeld: scriptable &amp; configurable builder tool in PHP, Python and Node](https://github.com/foo123/Beeld)
 
@@ -403,7 +404,7 @@
 
 
 
-<h3 id="various">Various experiments</h3>  
+<h2 id="mycat_various">Various experiments</h2>  
 
 * [A summary of Code Optimization Methods](https://github.com/foo123/code-optimization-methods)
 

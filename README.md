@@ -2,7 +2,7 @@
 **Code Artist ● Architect ● Musician**  
   
   
-[GitHub](https://github.com/foo123) ● [StackOverflow](https://stackoverflow.com/users/3591273/nikos-m) ● [#Standup4HumanRights](https://www.standup4humanrights.org/en/index.html)
+[GitHub](https://github.com/foo123) • [StackOverflow](https://stackoverflow.com/users/3591273/nikos-m) • [#Standup4HumanRights](https://www.standup4humanrights.org/en/index.html)
   
   
   
@@ -367,9 +367,11 @@
 
 * [Intuitive 3D Rubik Cube in ActionScript3 with PaperVision3D](https://github.com/foo123/3DRubikCube)
 
-* [Create and solve your own jigsaw puzzles on-the-fly in your browser (TODO)](https://foo123.github.io/examples/jigsaw/)
+* [Play a game of chess](https://foo123.github.io/examples/chess-play/)
 
-* [Create and practice on a series of chess exercises in your browser (TODO)](https://foo123.github.io/examples/chess/)
+* [Create and practice on a series of chess exercises (TODO)](https://foo123.github.io/examples/chess/)
+
+* [Create and solve your own jigsaw puzzles on-the-fly in your browser (TODO)](https://foo123.github.io/examples/jigsaw/)
 
 
 

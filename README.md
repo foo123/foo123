@@ -2,7 +2,7 @@
 **Code Artist ● Architect ● Musician**  
   
   
-<center><a href="https://github.com/foo123">GitHub</a> ● a href="https://stackoverflow.com/users/3591273/nikos-m">StackOverflow</a> ● <a href="https://www.standup4humanrights.org/en/index.html">&#35;Standup4HumanRights</a></center>
+<center><a href="https://github.com/foo123">GitHub</a> ● <a href="https://stackoverflow.com/users/3591273/nikos-m">StackOverflow</a> ● <a href="https://www.standup4humanrights.org/en/index.html">&#35;Standup4HumanRights</a></center>
   
   
   

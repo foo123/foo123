@@ -11,34 +11,44 @@
 ### Open Source Projects
 
 
-* [Frameworks / Libraries](#mycat_frameworks) Frameworks, Libraries, Engines, ..
+* [Frameworks / Libraries](#mycat_frameworks)
+    Frameworks, Libraries, Engines, ..
 
 
-* [DSP / Machine Learning](#mycat_dsp) Signal Processing, Image / Video Processing, Feature Detection, Computer Vision, DSP, Machine Learning, Sound Visualization, ..
+* [DSP / Machine Learning](#mycat_dsp)
+    Signal Processing, Image / Video Processing, Feature Detection, Computer Vision, DSP, Machine Learning, Sound Visualization, ..
 
 
-* [Engines / Processors / Pattern Processing](#mycat_processors) Pattern Processing, Parsers, Processors, Template Engines, Grammars, ..
+* [Engines / Processors / Pattern Processing](#mycat_processors)
+    Pattern Processing, Parsers, Processors, Template Engines, Grammars, ..
 
 
-* [Mathematics / Combinatorics / Logic / Optimization](#mycat_math) Combinatorics, Mathematics, Logic, Constraints, Optimization, ..
+* [Mathematics / Combinatorics / Logic / Optimization](#mycat_math)
+    Combinatorics, Mathematics, Logic, Constraints, Optimization, ..
 
 
-* [Graphics / 3D / Animation](#mycat_graphics) Graphics, Animation, 3D, Transition Libraries, Slideshows, ..
+* [Graphics / 3D / Animation](#mycat_graphics)
+    Graphics, Animation, 3D, Transition Libraries, Slideshows, ..
 
 
-* [Plugins / Add-Ons](#mycat_plugins) Plugins, Add-Ons, Extensions, Modules, Scripts, ..
+* [Plugins / Add-Ons](#mycat_plugins)
+    Plugins, Add-Ons, Extensions, Modules, Scripts, ..
 
 
-* [Demo Applications](#mycat_apps) Demo Applications
+* [Demo Applications](#mycat_apps)
+    Demo Applications
 
 
-* [Simple Games](#mycat_games) Simple games, game ideas, ..
+* [Simple Games](#mycat_games)
+    Simple games, game ideas, ..
 
 
-* [Tools / Scripts](#mycat_tools) Various Tools &amp; Scripts for automation tasks..
+* [Tools / Scripts](#mycat_tools)
+    Various Tools &amp; Scripts for automation tasks..
 
 
-* [Various experiments](#mycat_various) Various experiments, studies, demos, ..
+* [Various experiments](#mycat_various)
+    Various experiments, studies, demos, ..
 
 
   

@@ -367,7 +367,7 @@
 
 * [Intuitive 3D Rubik Cube in ActionScript3 with PaperVision3D](https://github.com/foo123/3DRubikCube)
 
-* [Play a game of chess](https://foo123.github.io/examples/chess-play/)
+* [chess.js: Play a game of chess](https://foo123.github.io/examples/chess-play/)
 
 * [Create and practice on a series of chess exercises (TODO)](https://foo123.github.io/examples/chess/)
 

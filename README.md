@@ -1,5 +1,7 @@
 
-![favicon](./favicon.png) **Code Artist ● Architect ● Musician**  
+![favicon](./favicon.png)  
+  
+**Code Artist ● Architect ● Musician**  
   
   
 [GitHub](https://github.com/foo123) • [StackOverflow](https://stackoverflow.com/users/3591273/nikos-m) • [#Standup4HumanRights](https://www.standup4humanrights.org/en/index.html)

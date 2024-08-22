@@ -1,5 +1,5 @@
 
-![favicon](./favicon-bg.png)  
+![favicon](./favicon-md.png)  
   
 **Code Artist ● Architect ● Musician**  
   

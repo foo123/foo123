@@ -1,5 +1,5 @@
 
-![favicon](./favicon-md.png)  
+![favicon](./favicon.png)   
   
 **Code Artist ● Architect ● Musician**  
   
@@ -380,6 +380,8 @@
 * [Intuitive 3D Rubik Cube in ActionScript3 with PaperVision3D](https://github.com/foo123/3DRubikCube)
 
 * [chess.js: Play a game of chess](https://foo123.github.io/examples/chess-play/)
+
+* [sunfish.js: JavaScript port of Sunfish Python Chess Engine](https://github.com/foo123/sunfish.js)
 
 * [Create and practice on a series of chess exercises (TODO)](https://foo123.github.io/examples/chess/)
 

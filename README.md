@@ -359,11 +359,13 @@
 
 * [Interactive Mouth Detection with HAAR.js &amp; openCV cascades](https://foo123.github.io/examples/mouth-detection/)
 
-* [Intuitive 3D Rubik Cube with Three.js](https://foo123.github.io/examples/rubik3/)
-
 * [Intuitive 3D Rubik Cube in ActionScript3 with PaperVision3D](https://github.com/foo123/3DRubikCube)
 
+* [Intuitive 3D Rubik Cube with Three.js](https://foo123.github.io/examples/rubik3/)
+
 * [sudoku.js: Sudoku game, builder &amp; solver in pure JavaScript. Scaled-down version of CrossWord.js](https://foo123.github.io/examples/sudoku/)
+
+* [chess.js: Play a game of chess](https://foo123.github.io/examples/chess-play/)
 
 * [Sample Billiard game in pure JavaScript with Neraliu's NEngine.js](https://foo123.github.io/examples/billiard.js/)
 

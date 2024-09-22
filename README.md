@@ -225,6 +225,8 @@
 
 * [sudoku.js: Sudoku game, builder &amp; solver in pure JavaScript. Scaled-down version of CrossWord.js](https://foo123.github.io/examples/sudoku/)
 
+* [chess.js: Play a game of chess](https://foo123.github.io/examples/chess-play/)
+
 * [Xpresion: simple, fast and flexible eXpression parser engine / rewrite system with variables &amp; custom functions support, for JavaScript, PHP and Python](https://foo123.github.io/examples/xpresion/)
 
 * [GrammarTemplate: versatile and intuitive grammar-based templating for PHP, Python and JavaScript](https://foo123.github.io/examples/grammar-template/)

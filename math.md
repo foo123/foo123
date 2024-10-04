@@ -3,6 +3,8 @@
 
 * [Abacus: Combinatorics &amp; Number Theory symbolic computation library for JavaScript and Python](https://foo123.github.io/examples/abacus/)
 
+* [TensorView: View arbitrary array data as multidimensional tensors of various shapes and slices efficiently](https://github.com/foo123/TensorView)
+
 * [Geometrize: Computational Geometry and Rendering Library for JavaScript](https://foo123.github.io/examples/geometrize/)
 
 * [MOD3: 3D Modifier Library for Three.js, J3D, CubicVR.js, OSG.js, Copperlicht, Pre3D](https://foo123.github.io/examples/flipbook3/)

@@ -19,6 +19,8 @@
 
 * [LoginManager: simple, barebones login manager for JavaScript, PHP and Python](https://github.com/foo123/LoginManager)
 
+* [Localizer: simple and versatile class for localization (l10n/i18n) for PHP, JavaScript, Python](https://github.com/foo123/Localizer)
+
 * [SimpleCaptcha: simple, image-based, mathematical captcha](https://github.com/foo123/simple-captcha)
 
 * [Unicache: universal, agnostic, flexible Caching framework for PHP, JavaScript and Python](https://github.com/foo123/Unicache)

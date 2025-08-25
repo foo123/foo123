@@ -17,6 +17,8 @@
 
 * [Formal: simple and versatile form / input data validation framework for PHP, JavaScript, Python](https://github.com/foo123/Formal)
 
+* [EazyHttp: easy, simple and fast HTTP requests for PHP, JavaScript, Python](https://github.com/foo123/EazyHttp)
+
 * [LoginManager: simple, barebones login manager for JavaScript, PHP and Python](https://github.com/foo123/LoginManager)
 
 * [Localizer: simple and versatile class for localization (l10n/i18n) for PHP, JavaScript, Python](https://github.com/foo123/Localizer)

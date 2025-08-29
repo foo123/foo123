@@ -12,6 +12,10 @@
   
 ### Open Source Projects
 
+[Examples and Projects Page](https://foo123.github.io/examples/)  
+  
+
+
 
 * [Frameworks / Libraries](https://github.com/foo123/foo123/blob/master/frameworks.md)  
     Frameworks, Libraries, Engines, ..
@@ -46,7 +50,7 @@
 
 
 * [Tools / Scripts](https://github.com/foo123/foo123/blob/master/tools.md)  
-    Various Tools &amp; Scripts for automation tasks..
+    Various Tools and Scripts for automation tasks..
 
 
 * [Various experiments](https://github.com/foo123/foo123/blob/master/various.md)  

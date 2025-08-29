@@ -1,11 +1,11 @@
 
 <h2 id="mycat_apps">Demo Applications</h2>  
 
-* [Abacus: Combinatorics &amp; Number Theory symbolic computation library for JavaScript and Python](https://foo123.github.io/examples/abacus/)
+* [Abacus: Combinatorics and Number Theory symbolic computation library for JavaScript and Python](https://foo123.github.io/examples/abacus/)
 
-* [TodoMVC with ModelView.js, a simple, light-weight, versatile &amp; fast MVVM front-end framework](https://foo123.github.io/examples/todomvc/)
+* [TodoMVC with ModelView.js, a simple, light-weight, versatile and fast MVVM front-end framework](https://foo123.github.io/examples/todomvc/)
 
-* [Two-way data binding with ModelView.js a simple, light-weight, versatile &amp; fast MVVM front-end framework](https://foo123.github.io/examples/modelview/temperature-converter.html)
+* [Two-way data binding with ModelView.js a simple, light-weight, versatile and fast MVVM front-end framework](https://foo123.github.io/examples/modelview/temperature-converter.html)
 
 * [Some HtmlWidgets with ModelView](https://foo123.github.io/examples/htmlwidget/)
 
@@ -15,13 +15,13 @@
 
 * [Weather at a Glance with Vue.js](https://foo123.github.io/examples/weather-vue/)
 
-* [Study &amp; analysis of various Sorting Algorithms in JavaScript](https://foo123.github.io/examples/sorting-algorithms/)
+* [Study and analysis of various Sorting Algorithms in JavaScript](https://foo123.github.io/examples/sorting-algorithms/)
 
-* [Study &amp; analysis of various Pattern Matching Algorithms in JavaScript](https://foo123.github.io/examples/pattern-matching-algorithms/)
+* [Study and analysis of various Pattern Matching Algorithms in JavaScript](https://foo123.github.io/examples/pattern-matching-algorithms/)
 
-* [Regular Expression Analyser for PHP, Python and JavaScript](https://foo123.github.io/examples/regex-analyzer/)
+* [Regular Expression Analyser for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-analyzer/)
 
-* [Intuitive Regular Expression Composer for PHP, Python and JavaScript](https://foo123.github.io/examples/regex-composer/)
+* [Intuitive Regular Expression Composer for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-composer/)
 
 * [Transform a grammar in JSON format to a Codemirror syntax-highlight mode with Codemirror Grammar](https://foo123.github.io/examples/codemirror-grammar/)
 
@@ -41,15 +41,15 @@
 
 * [Cartoonify Yourself with Filter.js](https://foo123.github.io/examples/cartoonify-yourself/?webgl=1)
 
-* [Interactive Face Detection with HAAR.js &amp; openCV cascades](https://foo123.github.io/examples/face-detection/)
+* [Interactive Face Detection with HAAR.js and openCV cascades](https://foo123.github.io/examples/face-detection/)
 
-* [Interactive Mouth Detection with HAAR.js &amp; openCV cascades](https://foo123.github.io/examples/mouth-detection/)
+* [Interactive Mouth Detection with HAAR.js and openCV cascades](https://foo123.github.io/examples/mouth-detection/)
 
 * [Intuitive 3D Rubik Cube in ActionScript3 with PaperVision3D](https://github.com/foo123/3DRubikCube)
 
 * [Intuitive 3D Rubik Cube with Three.js](https://foo123.github.io/examples/rubik3/)
 
-* [sudoku.js: Sudoku game, builder &amp; solver in pure JavaScript. Scaled-down version of CrossWord.js](https://foo123.github.io/examples/sudoku/)
+* [sudoku.js: Sudoku game, builder and solver in pure JavaScript. Scaled-down version of CrossWord.js](https://foo123.github.io/examples/sudoku/)
 
 * [chess.js: Play a game of chess](https://foo123.github.io/examples/chess-play/)
 

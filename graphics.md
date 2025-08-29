@@ -3,11 +3,11 @@
 
 * [Imagik: Fully-Featured, Fully-Customisable and Extendable Responsive CSS3 Slideshow](https://foo123.github.io/examples/imagik/)
 
-* [touchTouch: Optimized Desktop &amp; Mobile Photo Gallery](https://foo123.github.io/examples/touchtouch/)
+* [touchTouch: Optimized Desktop and Mobile Photo Gallery](https://foo123.github.io/examples/touchtouch/)
 
-* [minislider: Optimized responsive Desktop &amp; Mobile Mini Slider](https://foo123.github.io/examples/minislider/)
+* [minislider: Optimized responsive Desktop and Mobile Mini Slider](https://foo123.github.io/examples/minislider/)
 
-* [minicarousel: Optimized responsive Carousel for Desktop &amp; Mobile](https://foo123.github.io/examples/minicarousel/)
+* [minicarousel: Optimized responsive Carousel for Desktop and Mobile](https://foo123.github.io/examples/minicarousel/)
 
 * [Diagonal Slideshow, jQuery plugin](https://foo123.github.io/examples/diagonal-slideshow/)
 
@@ -23,13 +23,13 @@
 
 * [CanvasLite: Lite Canvas alternative for Nodejs in pure JavaScript](https://github.com/foo123/CanvasLite)
 
-* [Real 3D Flipbook with MOD3.js &amp; Three.js](https://foo123.github.io/examples/flipbook3/)
+* [Real 3D Flipbook with MOD3.js and Three.js](https://foo123.github.io/examples/flipbook3/)
 
-* [Real 3D Flipbook in ActionScript3 with PaperVision3D &amp; AS3DMod](https://github.com/foo123/3DFlipBookEngine)
+* [Real 3D Flipbook in ActionScript3 with PaperVision3D and AS3DMod](https://github.com/foo123/3DFlipBookEngine)
 
 * [3D Carousel with Three.js](https://foo123.github.io/examples/carousel3/)
 
-* [Dancing Box with MOD3.js, Three,js &amp; Dancer.js](https://foo123.github.io/examples/dancing-box/)
+* [Dancing Box with MOD3.js, Three.js and Dancer.js](https://foo123.github.io/examples/dancing-box/)
 
 * [Intuitive 3D Rubik Cube with Three.js](https://foo123.github.io/examples/rubik3/)
 
@@ -37,7 +37,7 @@
 
 * [Filter.js with Three.js](https://foo123.github.io/examples/filter-three/)
 
-* [Sound Visualization with Filter.js &amp; Dancer.js (Trioptic)](https://foo123.github.io/examples/filter-sound/)
+* [Sound Visualization with Filter.js and Dancer.js (Trioptic)](https://foo123.github.io/examples/filter-sound/)
 
 * [Cartoonify Yourself with Filter.js](https://foo123.github.io/examples/cartoonify-yourself/?webgl=1)
 

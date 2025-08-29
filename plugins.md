@@ -13,7 +13,7 @@
 
 * [MOD3: 3D Modifier Library for Three.js, J3D, CubicVR.js, OSG.js, Copperlicht, Pre3D](https://foo123.github.io/examples/flipbook3/)
 
-* [DateX: eXtended &amp; localised Date parsing, diffing, formatting &amp; validation for JavaScript, Python, PHP](https://github.com/foo123/DateX)
+* [DateX: eXtended and localised Date parsing, diffing, formatting and validation for PHP, JavaScript, Python](https://github.com/foo123/DateX)
 
 * [Pikadaytime: simple and versatile Date/Time widget for JavaScript](https://github.com/foo123/Pikadaytime)
 
@@ -23,5 +23,5 @@
 
 * [NoFlash Responsive Slideshow, multiple customised transition effects, jQuery plugin](https://foo123.github.io/examples/noflash/)
 
-* [Google Maps jQuery plugin (v2 &amp; v3)](https://foo123.github.io/examples/jquery-google-maps/)
+* [Google Maps jQuery plugin (v2 and v3)](https://foo123.github.io/examples/jquery-google-maps/)
 

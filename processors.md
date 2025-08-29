@@ -1,9 +1,9 @@
 
 <h2 id="mycat_processors">Engines / Processors / Pattern Processing</h2>  
 
-* [Regular Expression Analyser for PHP, Python and JavaScript](https://foo123.github.io/examples/regex-analyzer/)
+* [Regular Expression Analyser for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-analyzer/)
 
-* [Intuitive Regular Expression Composer for PHP, Python and JavaScript](https://foo123.github.io/examples/regex-composer/)
+* [Intuitive Regular Expression Composer for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-composer/)
 
 * [Transform a grammar in JSON format to a Codemirror syntax-highlight mode with Codemirror Grammar](https://foo123.github.io/examples/codemirror-grammar/)
 
@@ -21,13 +21,11 @@
 
 * [Online CSS Processor and Minifier tool](https://foo123.github.io/examples/css-minifier/)
 
-* [Generic PHP Deobfuscator and Beautifier](https://github.com/foo123/PHPDeobfuscator)
+* [Contemplate: light-weight, uniform, fast and flexible object-ooriented template engine for PHP, JavaScript, Python](https://foo123.github.io/examples/contemplate/)
 
-* [Contemplate: light-weight, uniform, fast &amp; flexible object-ooriented template engine for JavaScript, PHP and Python](https://foo123.github.io/examples/contemplate/)
+* [Xpresion: simple, fast and flexible eXpression parser engine / rewrite system with variables and custom functions support for PHP, JavaScript, Python](https://foo123.github.io/examples/xpresion/)
 
-* [Xpresion: simple, fast and flexible eXpression parser engine / rewrite system with variables &amp; custom functions support, for JavaScript, PHP and Python](https://foo123.github.io/examples/xpresion/)
+* [GrammarTemplate: versatile and intuitive grammar-based templating for PHP, JavaScript, Python](https://foo123.github.io/examples/grammar-template/)
 
-* [GrammarTemplate: versatile and intuitive grammar-based templating for PHP, Python and JavaScript](https://foo123.github.io/examples/grammar-template/)
-
-* [GrammarTree: Grammar to Abstract Syntax Tree generic parser for JavaScript, Python and PHP (IN PROGRESS)](https://github.com/foo123/GrammarTree)
+* [GrammarTree: Grammar to Abstract Syntax Tree generic parser for PHP, JavaScript, Python (IN PROGRESS)](https://github.com/foo123/GrammarTree)
 

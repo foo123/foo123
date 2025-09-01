@@ -1,29 +1,81 @@
 
 <h2 id="mycat_tools">Tools / Scripts</h2>  
 
-* [**Beeld**: a configurable **builder tool** in PHP, JavaScript, Python](https://github.com/foo123/Beeld)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/beeld.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/Beeld"><b>Beeld</b>: a configurable <b>builder tool</b> in PHP, JavaScript, Python</a>
+</p>
 
-* [**Abacus**: a **combinatorics and number theory symbolic computation library** for JavaScript and Python](https://foo123.github.io/examples/abacus/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/abacus-live.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/abacus/"><b>Abacus</b>: a <b>combinatorics and number theory symbolic computation library</b> for JavaScript and Python</a>
+</p>
 
-* [Online **CSS Processor and Minifier** tool](https://foo123.github.io/examples/css-minifier/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/cssmin.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/css-minifier/"><b>CSSMinifier</b>: an online <b>CSS Processor and Minifier</b> tool</a>
+</p>
 
-* [Intuitive **Regular Expression Analyser** for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-analyzer/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/regexanalyser.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/regex-analyzer/">Intuitive <b>Regular Expression Analyser</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [Intuitive **Regular Expression Composer** for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-composer/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/yo-regex-composer.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/regex-composer/">Intuitive <b>Regular Expression Composer</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [Study and analysis of various **Sorting Algorithms** in JavaScript](https://foo123.github.io/examples/sorting-algorithms/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/sorting-algorithms.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/sorting-algorithms/">Study and analysis of various <b>Sorting Algorithms</b> in JavaScript</a>
+</p>
 
-* [Study and analysis of various **Pattern Matching Algorithms** in JavaScript](https://foo123.github.io/examples/pattern-matching-algorithms/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/pattern-matching-algorithms.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/">Study and analysis of various <b>Pattern Matching Algorithms</b> in JavaScript</a>
+</p>
 
-* [**img2svg**: Image to SVG transformer](https://foo123.github.io/examples/img2svg/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/img2svg.webp" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/img2svg/"><b>img2svg</b>: an Image to SVG transformer</a>
+</p>
 
-* [Scripts and Tools for Automation Tasks](https://github.com/foo123/scripts)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/tools.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/scripts">Scripts and Tools for Automation Tasks</a>
+</p>
 
-* [**Contemplate**: light-weight, fast and versatile object-ooriented **template engine** for PHP, JavaScript, Python](https://foo123.github.io/examples/contemplate/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/contemplate-1.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/contemplate/"><b>Contemplate</b>: a light-weight, fast and versatile object-ooriented <b>template engine</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**Xpresion**: a simple, fast and versatile **eXpression parser engine** / **rewrite system** for PHP, JavaScript, Python](https://foo123.github.io/examples/xpresion/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/xpresion.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/xpresion/"><b>Xpresion</b>: a simple, fast and versatile <b>eXpression parser engine</b> / <b>rewrite system</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**GrammarTemplate**: a versatile and intuitive **grammar-based template engine** for PHP, JavaScript, Python](https://foo123.github.io/examples/grammar-template/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/grammtpl.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/grammar-template/"><b>GrammarTemplate</b>: a versatile and intuitive <b>grammar-based template engine</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**GrammarTree**: grammar to abstract syntax tree (AST) **generic parser** for PHP, JavaScript, Python (IN PROGRESS)](https://github.com/foo123/GrammarTree)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/grammartree.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/GrammarTree"><b>GrammarTree</b>: grammar to abstract syntax tree (AST) <b>generic parser</b> for PHP, JavaScript, Python (IN PROGRESS)</a>
+</p>
 

@@ -1,89 +1,261 @@
 
 <h2 id="mycat_frameworks">Frameworks / Libraries</h2>  
 
-* [**tico**: a small, super-simple and versatile **MVC web framework** for PHP](https://github.com/foo123/tico)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/tico.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/tico"><b>tico</b>: a mini, super-simple and versatile <b>MVC web framework</b> for PHP</a>
+</p>
 
-* [**ModelView.js**: a simple, fast, light-weight and isomorphic **MVVM front-end framework** for JavaScript](https://foo123.github.io/examples/modelview/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/modelview.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/modelview/"><b>ModelView.js</b>: a simple, fast, light-weight and isomorphic <b>MVVM front-end framework</b> for JavaScript</a>
+</p>
 
-* [**Contemplate**: light-weight, fast and versatile object-ooriented **template engine** for PHP, JavaScript, Python](https://foo123.github.io/examples/contemplate/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/contemplate-2.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/contemplate/"><b>Contemplate</b>: a light-weight, fast and versatile object-ooriented <b>template engine</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**InTpl**: super-simple PHP **template engine** with inheritance](https://github.com/foo123/InTpl)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/intpl.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/InTpl"><b>InTpl</b>: a super-simple PHP <b>template engine</b> with inheritance</a>
+</p>
 
-* [**HtmlWidget**: standalone and pluggable optimized **HTML widgets** for PHP, JavaScript, Python](https://foo123.github.io/examples/htmlwidget/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/htmlwidget.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/htmlwidget/"><b>HtmlWidget</b>: standalone and pluggable optimized <b>HTML widgets</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**Importer**: a simple and versatile class and asset dependency manager and loader for PHP, JavaScript, Python](https://github.com/foo123/Importer)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/importer.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/Importer"><b>Importer</b>: a simple and versatile class and asset dependency manager and loader for PHP, JavaScript, Python</a>
+</p>
 
-* [**PublishSubscribe**: a **publish-subscribe pattern** implementation for PHP, JavaScript, Python](https://github.com/foo123/PublishSubscribe)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/publishsubscribe2.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/PublishSubscribe"><b>PublishSubscribe</b>: a <b>publish-subscribe pattern</b> implementation for PHP, JavaScript, Python</a>
+</p>
 
-* [**Formal**: a simple and versatile form **data validation framework** for PHP, JavaScript, Python](https://github.com/foo123/Formal)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/formal.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/Formal"><b>Formal</b>: a simple and versatile form <b>data validation framework</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**EazyHttp**: easy, simple and fast **HTTP requests** for PHP, JavaScript, Python](https://github.com/foo123/EazyHttp)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/eazyhttp.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/EazyHttp"><b>EazyHttp</b>: easy, simple and fast <b>HTTP requests</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**LoginManager**: a simple, barebones **login manager** for PHP, JavaScript, Python](https://github.com/foo123/LoginManager)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/loginmanager.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/LoginManager"><b>LoginManager</b>: a simple, barebones <b>login manager</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**Localizer**: simple and versatile class for **localization (l10n/i18n)** for PHP, JavaScript, Python](https://github.com/foo123/Localizer)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/l10n.png" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/Localizer"><b>Localizer</b>: a simple and versatile <b>localization (l10n/i18n)</b> class for PHP, JavaScript, Python</a>
+</p>
 
-* [**SimpleCaptcha**: a simple, image-based, mathematical **captcha** for PHP, JavaScript, Python](https://github.com/foo123/simple-captcha)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/simple-captcha.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/simple-captcha"><b>SimpleCaptcha</b>: a simple, image-based, mathematical <b>captcha</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**Unicache**: a universal, agnostic, flexible **caching framework** for PHP, JavaScript, Python](https://github.com/foo123/Unicache)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/unicache.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/Unicache"><b>Unicache</b>: a universal, agnostic, flexible <b>caching framework</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**Dromeo**: a simple, versatile, barebones **pattern router** for PHP, JavaScript, Python](https://github.com/foo123/Dromeo)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/dromeo2.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/Dromeo"><b>Dromeo</b>: a simple, versatile, barebones <b>pattern router</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**Dialect**: a flexible cross-platfrom and cross-vendor **SQL query builder** for PHP, JavaScript, Python](https://github.com/foo123/Dialect)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/dialect.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/Dialect"><b>Dialect</b>: a flexible cross-platfrom and cross-vendor <b>SQL query builder</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**DialectORM**: a simple, fast, and versatile **object-relational-mapper (ORM) framework** for PHP, JavaScript, Python](https://github.com/foo123/DialectORM)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/dialectorm.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/DialectORM"><b>DialectORM</b>: a simple, fast, and versatile <b>object-relational-mapper (ORM) framework</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**RegexAnalyzer**: a flexible **regular expression analyser** for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-analyzer/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/yo-regex.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/regex-analyzer/"><b>RegexAnalyzer</b>: an intuitive and flexible <b>regular expression analyser</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**RegexComposer**: an intuitive **regular expression composer** for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-composer/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/yo-regex-composer.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/regex-composer/"><b>RegexComposer</b>: an intuitive <b>regular expression composer</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**Xpresion**: a simple, fast and versatile **eXpression parser engine** / **rewrite system** for PHP, JavaScript, Python](https://foo123.github.io/examples/xpresion/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/xpresion.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/xpresion/"><b>Xpresion</b>: a simple, fast and versatile <b>eXpression parser engine</b> / <b>rewrite system</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**GrammarTemplate**: a versatile and intuitive **grammar-based template engine** for PHP, JavaScript, Python](https://foo123.github.io/examples/grammar-template/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/grammtpl.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/grammar-template/"><b>GrammarTemplate</b>: a versatile and intuitive <b>grammar-based template engine</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**GrammarTree**: grammar to abstract syntax tree (AST) **generic parser** for PHP, JavaScript, Python (IN PROGRESS)](https://github.com/foo123/GrammarTree)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/grammartree.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/GrammarTree"><b>GrammarTree</b>: grammar to abstract syntax tree (AST) <b>generic parser</b> for PHP, JavaScript, Python (IN PROGRESS)</a>
+</p>
 
-* [**classy.js**: an object-oriented mini framework for JavaScript](https://github.com/foo123/classy.js)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/classy2.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/classy.js"><b>classy.js</b>: an object-oriented mini framework for JavaScript</a>
+</p>
 
-* [**Asynchronous**: a simple manager for **asynchronous and parallelized** tasks for JavaScript](https://github.com/foo123/asynchronous.js)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/asynchronous2.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/asynchronous.js"><b>Asynchronous</b>: a simple manager for <b>asynchronous and parallelized</b> tasks for JavaScript</a>
+</p>
 
-* [**RT**: a versatile **real-time client communication** for JavaScript supporting **Poll, BOSH and Web Sockets**](https://github.com/foo123/RT)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/rt.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/RT"><b>RT</b>: a versatile <b>real-time client communication</b> for JavaScript supporting <b>Poll, BOSH and Web Sockets</b></a>
+</p>
 
-* [**AjaxListener**: listen to any **AJAX event** on page, even by other scripts](https://github.com/foo123/AjaxListener.js)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/ajaxlistener.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/AjaxListener.js"><b>AjaxListener</b>: listen to any <b>AJAX event</b> on page, even by other scripts</a>
+</p>
 
-* [**AreaSelect.js**: select rectangular regions easily in DOM elements](https://foo123.github.io/examples/area-select/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/area-select.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/area-select/"><b>AreaSelect.js</b>: select rectangular regions easily in DOM elements</a>
+</p>
 
-* [**AreaSortable.js**: sort items of an area using **drag-and-drop** for Desktop and Mobile browsers](https://foo123.github.io/examples/area-sortable/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/area-sortable.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/area-sortable/"><b>AreaSortable.js</b>: sort items of an area using <b>drag-and-drop</b> for Desktop and Mobile browsers</a>
+</p>
 
-* [**InfoPopup.js**: show info popups simply and easily for Desktop and Mobile browsers](https://foo123.github.io/examples/infopopup/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/infopopup.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/infopopup/"><b>InfoPopup.js</b>: show info popups simply and easily for Desktop and Mobile browsers</a>
+</p>
 
-* [**Imagik**: a fully featured and extendable **responsive CSS3 slideshow**](https://foo123.github.io/examples/imagik/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/imagik.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/imagik/"><b>Imagik</b>: a fully featured and extendable <b>responsive CSS3 slideshow</b></a>
+</p>
 
-* [**touchTouch**: an optimized Desktop and Mobile **photo gallery**](https://foo123.github.io/examples/touchtouch/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/touchtouch.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/touchtouch/"><b>touchTouch</b>: an optimized Desktop and Mobile <b>photo gallery</b></a>
+</p>
 
-* [**minislider**: an optimized Desktop and Mobile **mini responsive slider**](https://foo123.github.io/examples/minislider/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/minislider.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/minislider/"><b>minislider</b>: an optimized Desktop and Mobile <b>mini responsive slider</b></a>
+</p>
 
-* [**minicarousel**: an optimized **mini responsive carousel** for Desktop and Mobile](https://foo123.github.io/examples/minicarousel/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/minicarousel.png" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/minicarousel/"><b>minicarousel</b>: an optimized <b>mini responsive carousel</b> for Desktop and Mobile</a>
+</p>
 
-* [**Filter.js**: pure JavaScript framework for **real-time video and image processing and computer vision** (browser and nodejs)](https://foo123.github.io/examples/filter/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/filter.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/filter/"><b>Filter.js</b>: a pure JavaScript framework for <b>real-time video and image processing and computer vision</b> (browser and nodejs)</a>
+</p>
 
-* [**Abacus**: a **combinatorics and number theory symbolic computation library** for JavaScript and Python](https://foo123.github.io/examples/abacus/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/abacus.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/abacus/"><b>Abacus</b>: a <b>combinatorics and number theory symbolic computation library</b> for JavaScript and Python</a>
+</p>
 
-* [**TensorView**: view arbitrary array data as multidimensional tensors of various shapes and slices efficiently](https://github.com/foo123/TensorView)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/tensorview.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/TensorView"><b>TensorView</b>: view arbitrary array data as multidimensional tensors of various shapes and slices efficiently</a>
+</p>
 
-* [**Geometrize**: a **computational geometry and rendering library** for JavaScript](https://foo123.github.io/examples/geometrize/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/geometrize.png" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/geometrize/"><b>Geometrize</b>: a <b>computational geometry and rendering library</b> for JavaScript</a>
+</p>
 
-* [**Plot.js**: a simple **plotting library** for Canvas, SVG and plain HTML](https://foo123.github.io/examples/plot/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/plot.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/plot/"><b>Plot.js</b>: a simple and versatile <b>plotting library</b> for Canvas, SVG and plain HTML</a>
+</p>
 
-* [**CanvasLite**: a **lite canvas alternative** in pure JavaScript for browser and nodejs](https://github.com/foo123/CanvasLite)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/canvaslite.png" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/CanvasLite"><b>CanvasLite</b>: a <b>lite canvas alternative</b> in pure JavaScript for browser and nodejs</a>
+</p>
 
-* [**MOD3**: a **3D modifier library** for Three.js, J3D, CubicVR.js, OSG.js, Copperlicht, Pre3D](https://foo123.github.io/examples/flipbook3/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/mod3.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/flipbook3/"><b>MOD3</b>: a <b>3D modifier library</b> for Three.js, J3D, CubicVR.js, OSG.js, Copperlicht, Pre3D</a>
+</p>
 
-* [**Sort.js**: a **library of sorting algorithms** implementations and utilities](https://foo123.github.io/examples/sorting-algorithms/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/sort.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/sorting-algorithms/"><b>Sort.js</b>: a <b>library of sorting algorithms</b> implementations and utilities</a>
+</p>
 
-* [**Pattern.js**: a **library of pattern-matching algorithms** implementations and utilities (IN PROGRESS)](https://foo123.github.io/examples/pattern-matching-algorithms/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/pattern-matching-algorithms.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Pattern.js</b>: a <b>library of pattern-matching algorithms</b> implementations and utilities (IN PROGRESS)</a>
+</p>
 
-* [**Beeld**: a configurable **builder tool** in PHP, JavaScript, Python](https://github.com/foo123/Beeld)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/beeld.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/Beeld"><b>Beeld</b>: a configurable <b>builder tool</b> in PHP, JavaScript, Python</a>
+</p>
 
-* [**AS3TransitionsLibrary**: ActionScript 3 **slideshow transitions library** (demo)](https://foo123.github.io/examples/as3-transitions-lib/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/as3-transitions.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/as3-transitions-lib/"><b>AS3TransitionsLibrary</b>: an ActionScript 3 <b>slideshow transitions library</b> (demo)</a>
+</p>
 

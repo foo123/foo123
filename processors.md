@@ -1,31 +1,87 @@
 
 <h2 id="mycat_processors">Engines / Processors / Pattern Processing</h2>  
 
-* [**RegexAnalyzer**: a flexible **regular expression analyser** for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-analyzer/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/yo-regex.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/regex-analyzer/"><b>RegexAnalyzer</b>: an intuitive and flexible <b>regular expression analyser</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**RegexComposer**: an intuitive **regular expression composer** for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-composer/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/yo-regex-composer.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/regex-composer/"><b>RegexComposer</b>: an intuitive <b>regular expression composer</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [Transform a grammar in JSON format to a **Codemirror** syntax-highlight mode with **Codemirror Grammar**](https://foo123.github.io/examples/codemirror-grammar/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/codemirror-grammar.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/codemirror-grammar/">Transform a grammar in JSON format to a <b>Codemirror</b> syntax-highlight mode with <b>Codemirror Grammar</b></a>
+</p>
 
-* [Transform a grammar in JSON format to an **ACE** syntax-highlight mode with **ACE Grammar**](https://foo123.github.io/examples/ace-grammar/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/ace-grammar.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/ace-grammar/">Transform a grammar in JSON format to an <b>ACE</b> syntax-highlight mode with <b>ACE Grammar</b></a>
+</p>
 
-* [Transform a grammar in JSON format to a syntax-highlighter for **Prism** with **Prism Grammar**](https://foo123.github.io/examples/prism-grammar/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/prism-grammar.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/prism-grammar/">Transform a grammar in JSON format to a syntax-highlighter for <b>Prism</b> with <b>Prism Grammar</b></a>
+</p>
 
-* [Transform a grammar in JSON format to a syntax-highlighter brush for **SyntaxHighlighter** with **SyntaxHighlighter Grammar**](https://foo123.github.io/examples/syntaxhighlighter-grammar/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/syntaxhighlighter-grammar.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/syntaxhighlighter-grammar/">Transform a grammar in JSON format to a syntax-highlighter brush for <b>SyntaxHighlighter</b> with <b>SyntaxHighlighter Grammar</b></a>
+</p>
 
-* [Transform a grammar in JSON format to a syntax-highlighter mode for **Highlight.js** with **HighlightJS Grammar**](https://foo123.github.io/examples/highlightjs-grammar/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/highlightjs-grammar.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/highlightjs-grammar/">Transform a grammar in JSON format to a syntax-highlighter mode for <b>Highlight.js</b> with <b>HighlightJS Grammar</b></a>
+</p>
 
-* [**svg2json**: SVG to JSON parser](https://github.com/foo123/svg2json)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/svg2json.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/svg2json"><b>svg2json</b>: an SVG to JSON parser</a>
+</p>
 
-* [**img2svg**: Image to SVG transformer](https://foo123.github.io/examples/img2svg/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/img2svg.webp" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/img2svg/"><b>img2svg</b>: an Image to SVG transformer</a>
+</p>
 
-* [Online **CSS Processor and Minifier** tool](https://foo123.github.io/examples/css-minifier/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/cssmin.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/css-minifier/"><b>CSSMinifier</b>: an online <b>CSS Processor and Minifier</b> tool</a>
+</p>
 
-* [**Contemplate**: light-weight, fast and versatile object-ooriented **template engine** for PHP, JavaScript, Python](https://foo123.github.io/examples/contemplate/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/contemplate-1.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/contemplate/"><b>Contemplate</b>: a light-weight, fast and versatile object-ooriented <b>template engine</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**Xpresion**: a simple, fast and versatile **eXpression parser engine** / **rewrite system** for PHP, JavaScript, Python](https://foo123.github.io/examples/xpresion/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/xpresion.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/xpresion/"><b>Xpresion</b>: a simple, fast and versatile <b>eXpression parser engine</b> / <b>rewrite system</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**GrammarTemplate**: a versatile and intuitive **grammar-based template engine** for PHP, JavaScript, Python](https://foo123.github.io/examples/grammar-template/)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/grammtpl.jpg" width="300">
+    <br><br>  
+    <a href="https://foo123.github.io/examples/grammar-template/"><b>GrammarTemplate</b>: a versatile and intuitive <b>grammar-based template engine</b> for PHP, JavaScript, Python</a>
+</p>
 
-* [**GrammarTree**: grammar to abstract syntax tree (AST) **generic parser** for PHP, JavaScript, Python (IN PROGRESS)](https://github.com/foo123/GrammarTree)
+<p>
+    <img alt="logo for this project" src="https://foo123.github.io/thumbs/grammartree.jpg" width="300">
+    <br><br>  
+    <a href="https://github.com/foo123/GrammarTree"><b>GrammarTree</b>: grammar to abstract syntax tree (AST) <b>generic parser</b> for PHP, JavaScript, Python (IN PROGRESS)</a>
+</p>
 

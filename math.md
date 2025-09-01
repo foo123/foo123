@@ -1,39 +1,39 @@
 
 <h2 id="mycat_math">Mathematics / Combinatorics / Logic / Optimization</h2>  
 
-* [**Abacus**: Combinatorics and Number Theory symbolic computation library for JavaScript and Python](https://foo123.github.io/examples/abacus/)
+* [**Abacus**: a **combinatorics and number theory symbolic computation library** for JavaScript and Python](https://foo123.github.io/examples/abacus/)
 
-* [**TensorView**: View arbitrary array data as multidimensional tensors of various shapes and slices efficiently](https://github.com/foo123/TensorView)
+* [**TensorView**: view arbitrary array data as multidimensional tensors of various shapes and slices efficiently](https://github.com/foo123/TensorView)
 
-* [**Geometrize**: Computational Geometry and Rendering Library for JavaScript](https://foo123.github.io/examples/geometrize/)
+* [**Geometrize**: a **computational geometry and rendering library** for JavaScript](https://foo123.github.io/examples/geometrize/)
 
-* [**MOD3**: 3D Modifier Library for Three.js, J3D, CubicVR.js, OSG.js, Copperlicht, Pre3D](https://foo123.github.io/examples/flipbook3/)
+* [**MOD3**: a **3D modifier library** for Three.js, J3D, CubicVR.js, OSG.js, Copperlicht, Pre3D](https://foo123.github.io/examples/flipbook3/)
 
-* [**Sort.js**: library of sorting algorithms implementations and utilities](https://foo123.github.io/examples/sorting-algorithms/)
+* [**Sort.js**: a **library of sorting algorithms** implementations and utilities](https://foo123.github.io/examples/sorting-algorithms/)
 
-* [**Pattern.js**: library of pattern-matching algorithms implementations and utilities (IN PROGRESS)](https://foo123.github.io/examples/pattern-matching-algorithms/)
+* [**Pattern.js**: a **library of pattern-matching algorithms** implementations and utilities (IN PROGRESS)](https://foo123.github.io/examples/pattern-matching-algorithms/)
 
-* [Regular Expression Analyser for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-analyzer/)
+* [**RegexAnalyzer**: a flexible **regular expression analyser** for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-analyzer/)
 
-* [Intuitive Regular Expression Composer for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-composer/)
+* [**RegexComposer**: an intuitive **regular expression composer** for PHP, JavaScript, Python](https://foo123.github.io/examples/regex-composer/)
 
-* [**Filter.js**: pure JavaScript Library for real-time Video and Image Processing, Filtering and Computer Vision (browser and nodejs)](https://foo123.github.io/examples/filter/)
+* [**Filter.js**: pure JavaScript framework for **real-time video and image processing and computer vision** (browser and nodejs)](https://foo123.github.io/examples/filter/)
 
-* [Real-time Video Processing with Filter.js](https://foo123.github.io/examples/filter-video/)
+* [Real-time video Processing with **Filter.js**](https://foo123.github.io/examples/filter-video/)
 
-* [Intuitive 3D Rubik Cube with Three.js](https://foo123.github.io/examples/rubik3/)
+* [**Rubik3**: an intuitive **3D Rubik Cube** with **Three.js**](https://foo123.github.io/examples/rubik3/)
 
-* [Intuitive 3D Rubik Cube in ActionScript3 with PaperVision3D](https://github.com/foo123/3DRubikCube)
+* [**3DRubikCube**: an intuitive **3D Rubik Cube** in ActionScript3 with **PaperVision3D**](https://github.com/foo123/3DRubikCube)
 
-* [**sudoku.js**: Sudoku game, builder and solver in pure JavaScript. Scaled-down version of CrossWord.js](https://foo123.github.io/examples/sudoku/)
+* [**sudoku.js**: a **sudoku game, builder and solver** in pure JavaScript. Scaled-down version of **CrossWord.js**](https://foo123.github.io/examples/sudoku/)
 
-* [**chess.js**: Play a game of chess](https://foo123.github.io/examples/chess-play/)
+* [**chess.js**: play a game of chess](https://foo123.github.io/examples/chess-play/)
 
-* [**Xpresion**: simple, fast and flexible eXpression parser engine / rewrite system with variables and custom functions support for PHP, JavaScript, Python](https://foo123.github.io/examples/xpresion/)
+* [**Xpresion**: a simple, fast and versatile **eXpression parser engine** / **rewrite system** for PHP, JavaScript, Python](https://foo123.github.io/examples/xpresion/)
 
-* [**GrammarTemplate**: versatile and intuitive grammar-based templating for PHP, JavaScript, Python](https://foo123.github.io/examples/grammar-template/)
+* [**GrammarTemplate**: a versatile and intuitive **grammar-based template engine** for PHP, JavaScript, Python](https://foo123.github.io/examples/grammar-template/)
 
-* [**GrammarTree**: Grammar to Abstract Syntax Tree generic parser for PHP, JavaScript, Python (IN PROGRESS)](https://github.com/foo123/GrammarTree)
+* [**GrammarTree**: grammar to abstract syntax tree (AST) **generic parser** for PHP, JavaScript, Python (IN PROGRESS)](https://github.com/foo123/GrammarTree)
 
-* [A summary of Code Optimization Methods](https://github.com/foo123/code-optimization-methods)
+* [A summary guide of **Code Optimization Methods**](https://github.com/foo123/code-optimization-methods)
 

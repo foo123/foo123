@@ -1,7 +1,7 @@
 
 <h2 id="mycat_dsp">DSP / Machine Learning</h2>  
 
-* [Filter.js: pure JavaScript Library for real-time Video and Image Processing, Filtering and Computer Vision (browser and nodejs)](https://foo123.github.io/examples/filter/)
+* [**Filter.js**: pure JavaScript Library for real-time Video and Image Processing, Filtering and Computer Vision (browser and nodejs)](https://foo123.github.io/examples/filter/)
 
 * [Filter.js with Three.js](https://foo123.github.io/examples/filter-three/)
 

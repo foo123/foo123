@@ -3,7 +3,7 @@
 
 * [A summary of Code Optimization Methods](https://github.com/foo123/code-optimization-methods)
 
-* [Abacus: Combinatorics and Number Theory symbolic computation library for JavaScript and Python](https://foo123.github.io/examples/abacus/)
+* [**Abacus**: Combinatorics and Number Theory symbolic computation library for JavaScript and Python](https://foo123.github.io/examples/abacus/)
 
 * [Study and analysis of various Sorting Algorithms in JavaScript](https://foo123.github.io/examples/sorting-algorithms/)
 

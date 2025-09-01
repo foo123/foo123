@@ -11,13 +11,13 @@
 
 * [Transform a grammar in JSON format to a syntax-highlighter mode for Highlight.js with HighlightJS Grammar](https://foo123.github.io/examples/highlightjs-grammar/)
 
-* [MOD3: 3D Modifier Library for Three.js, J3D, CubicVR.js, OSG.js, Copperlicht, Pre3D](https://foo123.github.io/examples/flipbook3/)
+* [**MOD3**: 3D Modifier Library for Three.js, J3D, CubicVR.js, OSG.js, Copperlicht, Pre3D](https://foo123.github.io/examples/flipbook3/)
 
-* [DateX: eXtended and localised Date parsing, diffing, formatting and validation for PHP, JavaScript, Python](https://github.com/foo123/DateX)
+* [**DateX**: eXtended and localised Date parsing, diffing, formatting and validation for PHP, JavaScript, Python](https://github.com/foo123/DateX)
 
-* [Pikadaytime: simple and versatile Date/Time widget for JavaScript](https://github.com/foo123/Pikadaytime)
+* [**Pikadaytime**: simple and versatile Date/Time widget for JavaScript](https://github.com/foo123/Pikadaytime)
 
-* [ColorPicker: simple and versatile Color Picker widget for JavaScript](https://github.com/foo123/ColorPicker)
+* [**ColorPicker**: simple and versatile Color Picker widget for JavaScript](https://github.com/foo123/ColorPicker)
 
 * [Diagonal Slideshow, jQuery plugin](https://foo123.github.io/examples/diagonal-slideshow/)
 

@@ -15,17 +15,17 @@
 
 * [Transform a grammar in JSON format to a syntax-highlighter mode for Highlight.js with HighlightJS Grammar](https://foo123.github.io/examples/highlightjs-grammar/)
 
-* [svg2json: SVG to JSON parser](https://github.com/foo123/svg2json)
+* [**svg2json**: SVG to JSON parser](https://github.com/foo123/svg2json)
 
-* [img2svg: Image to SVG transformer](https://foo123.github.io/examples/img2svg/)
+* [**img2svg**: Image to SVG transformer](https://foo123.github.io/examples/img2svg/)
 
 * [Online CSS Processor and Minifier tool](https://foo123.github.io/examples/css-minifier/)
 
-* [Contemplate: light-weight, uniform, fast and flexible object-ooriented template engine for PHP, JavaScript, Python](https://foo123.github.io/examples/contemplate/)
+* [**Contemplate**: light-weight, uniform, fast and flexible object-ooriented template engine for PHP, JavaScript, Python](https://foo123.github.io/examples/contemplate/)
 
-* [Xpresion: simple, fast and flexible eXpression parser engine / rewrite system with variables and custom functions support for PHP, JavaScript, Python](https://foo123.github.io/examples/xpresion/)
+* [**Xpresion**: simple, fast and flexible eXpression parser engine / rewrite system with variables and custom functions support for PHP, JavaScript, Python](https://foo123.github.io/examples/xpresion/)
 
-* [GrammarTemplate: versatile and intuitive grammar-based templating for PHP, JavaScript, Python](https://foo123.github.io/examples/grammar-template/)
+* [**GrammarTemplate**: versatile and intuitive grammar-based templating for PHP, JavaScript, Python](https://foo123.github.io/examples/grammar-template/)
 
-* [GrammarTree: Grammar to Abstract Syntax Tree generic parser for PHP, JavaScript, Python (IN PROGRESS)](https://github.com/foo123/GrammarTree)
+* [**GrammarTree**: Grammar to Abstract Syntax Tree generic parser for PHP, JavaScript, Python (IN PROGRESS)](https://github.com/foo123/GrammarTree)
 

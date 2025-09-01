@@ -1,7 +1,7 @@
 
 <h2 id="mycat_apps">Demo Applications</h2>  
 
-* [Abacus: Combinatorics and Number Theory symbolic computation library for JavaScript and Python](https://foo123.github.io/examples/abacus/)
+* [**Abacus**: Combinatorics and Number Theory symbolic computation library for JavaScript and Python](https://foo123.github.io/examples/abacus/)
 
 * [TodoMVC with ModelView.js, a simple, light-weight, versatile and fast MVVM front-end framework](https://foo123.github.io/examples/todomvc/)
 
@@ -33,7 +33,7 @@
 
 * [Transform a grammar in JSON format to a syntax-highlighter mode for Highlight.js with HighlightJS Grammar](https://foo123.github.io/examples/highlightjs-grammar/)
 
-* [img2svg: Image to SVG transformer](https://foo123.github.io/examples/img2svg/)
+* [**img2svg**: Image to SVG transformer](https://foo123.github.io/examples/img2svg/)
 
 * [Online CSS Processor and Minifier tool](https://foo123.github.io/examples/css-minifier/)
 
@@ -49,9 +49,9 @@
 
 * [Intuitive 3D Rubik Cube with Three.js](https://foo123.github.io/examples/rubik3/)
 
-* [sudoku.js: Sudoku game, builder and solver in pure JavaScript. Scaled-down version of CrossWord.js](https://foo123.github.io/examples/sudoku/)
+* [**sudoku.js**: Sudoku game, builder and solver in pure JavaScript. Scaled-down version of CrossWord.js](https://foo123.github.io/examples/sudoku/)
 
-* [chess.js: Play a game of chess](https://foo123.github.io/examples/chess-play/)
+* [**chess.js**: Play a game of chess](https://foo123.github.io/examples/chess-play/)
 
-* [Sample Billiard game in pure JavaScript with Neraliu's NEngine.js](https://foo123.github.io/examples/billiard.js/)
+* [**billiard.js**: sample billiard game in pure JavaScript with Neraliu's NEngine.js](https://foo123.github.io/examples/billiard.js/)
 

@@ -1,13 +1,13 @@
 
 <h2 id="mycat_graphics">Graphics / 3D / Animation</h2>  
 
-* [Imagik: Fully-Featured, Fully-Customisable and Extendable Responsive CSS3 Slideshow](https://foo123.github.io/examples/imagik/)
+* [**Imagik**: Fully-Featured, Fully-Customisable and Extendable Responsive CSS3 Slideshow](https://foo123.github.io/examples/imagik/)
 
-* [touchTouch: Optimized Desktop and Mobile Photo Gallery](https://foo123.github.io/examples/touchtouch/)
+* [**touchTouch**: Optimized Desktop and Mobile Photo Gallery](https://foo123.github.io/examples/touchtouch/)
 
-* [minislider: Optimized responsive Desktop and Mobile Mini Slider](https://foo123.github.io/examples/minislider/)
+* [**minislider**: Optimized responsive Desktop and Mobile Mini Slider](https://foo123.github.io/examples/minislider/)
 
-* [minicarousel: Optimized responsive Carousel for Desktop and Mobile](https://foo123.github.io/examples/minicarousel/)
+* [**minicarousel**: Optimized responsive Carousel for Desktop and Mobile](https://foo123.github.io/examples/minicarousel/)
 
 * [Diagonal Slideshow, jQuery plugin](https://foo123.github.io/examples/diagonal-slideshow/)
 
@@ -17,11 +17,11 @@
 
 * [Flasher XML Slideshow based on ActionScript3 Transitions Library](https://foo123.github.io/examples/flasher-xml-slideshow/)
 
-* [Geometrize: Computational Geometry and Rendering Library for JavaScript](https://foo123.github.io/examples/geometrize/)
+* [**Geometrize**: Computational Geometry and Rendering Library for JavaScript](https://foo123.github.io/examples/geometrize/)
 
-* [Plot.js: simple plotting library for Canvas, SVG and plain HTML](https://foo123.github.io/examples/plot/)
+* [**Plot.js**: simple plotting library for Canvas, SVG and plain HTML](https://foo123.github.io/examples/plot/)
 
-* [CanvasLite: Lite Canvas alternative for Nodejs in pure JavaScript](https://github.com/foo123/CanvasLite)
+* [**CanvasLite**: Lite Canvas alternative for Nodejs in pure JavaScript](https://github.com/foo123/CanvasLite)
 
 * [Real 3D Flipbook with MOD3.js and Three.js](https://foo123.github.io/examples/flipbook3/)
 
@@ -41,9 +41,9 @@
 
 * [Cartoonify Yourself with Filter.js](https://foo123.github.io/examples/cartoonify-yourself/?webgl=1)
 
-* [Video &amp; Image Processing in Node.js with Filter.js](https://github.com/foo123/FILTER.js/tree/master/examples/node)
+* [Video and Image Processing in Node.js with Filter.js](https://github.com/foo123/FILTER.js/tree/master/examples/node)
 
-* [img2svg: Image to SVG transformer](https://foo123.github.io/examples/img2svg/)
+* [**img2svg**: Image to SVG transformer](https://foo123.github.io/examples/img2svg/)
 
-* [Sample Billiard game in pure JavaScript with Neraliu's NEngine.js](https://foo123.github.io/examples/billiard.js/)
+* [**billiard.js**: sample billiard game in pure JavaScript with Neraliu's NEngine.js](https://foo123.github.io/examples/billiard.js/)
 

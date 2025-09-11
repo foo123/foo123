@@ -1,5 +1,8 @@
 
-<h2 id="mycat_tools">Tools / Scripts</h2>  
+<h2 id="mycat_tools">Tools / Scripts</h2> 
+
+[Example Page](https://foo123.github.io/examples/#controller_page_tools)  
+ 
 
 <p>
     <a href="https://github.com/foo123/Beeld"><img alt="logo for this project" src="https://foo123.github.io/thumbs/beeld.jpg" width="300"></a>

@@ -1,5 +1,8 @@
 
-<h2 id="mycat_processors">Engines / Processors / Pattern Processing</h2>  
+<h2 id="mycat_processors">Engines / Processors / Pattern Processing</h2> 
+
+[Example Page](https://foo123.github.io/examples/#controller_page_processors)  
+ 
 
 <p>
     <a href="https://foo123.github.io/examples/regex-analyzer/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/yo-regex.jpg" width="300"></a>

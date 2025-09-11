@@ -1,5 +1,8 @@
 
-<h2 id="mycat_games">Simple Games</h2>  
+<h2 id="mycat_games">Simple Games</h2> 
+
+[Example Page](https://foo123.github.io/examples/#controller_page_games)  
+ 
 
 <p>
     <a href="https://foo123.github.io/examples/billiard.js/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/billiard.jpg" width="300"></a>

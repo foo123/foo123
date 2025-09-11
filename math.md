@@ -1,5 +1,8 @@
 
-<h2 id="mycat_math">Mathematics / Combinatorics / Logic / Optimization</h2>  
+<h2 id="mycat_math">Mathematics / Combinatorics / Logic / Optimization</h2> 
+
+[Example Page](https://foo123.github.io/examples/#controller_page_math)  
+ 
 
 <p>
     <a href="https://foo123.github.io/examples/abacus/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/abacus.jpg" width="300"></a>

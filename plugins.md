@@ -1,5 +1,8 @@
 
-<h2 id="mycat_plugins">Plugins / Add-Ons</h2>  
+<h2 id="mycat_plugins">Plugins / Add-Ons</h2> 
+
+[Example Page](https://foo123.github.io/examples/#controller_page_plugins)  
+ 
 
 <p>
     <a href="https://foo123.github.io/examples/codemirror-grammar/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/codemirror-grammar.jpg" width="300"></a>

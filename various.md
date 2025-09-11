@@ -1,5 +1,8 @@
 
-<h2 id="mycat_various">Various experiments</h2>  
+<h2 id="mycat_various">Various experiments</h2> 
+
+[Example Page](https://foo123.github.io/examples/#controller_page_various)  
+ 
 
 <p>
     <a href="https://github.com/foo123/code-optimization-methods"><img alt="logo for this project" src="https://foo123.github.io/thumbs/optimization-methods.jpg" width="300"></a>

@@ -262,3 +262,9 @@
     <a href="https://foo123.github.io/examples/as3-transitions-lib/"><b>AS3TransitionsLibrary</b>: an ActionScript 3 <b>slideshow transitions library</b> (demo)</a>
 </p>
 
+<p>
+    <a href="https://github.com/foo123/Importer"><img alt="logo for this project" src="https://foo123.github.io/thumbs/importer.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/Importer"><b>Importer</b>: a simple and versatile class and asset dependency manager and loader for PHP, JavaScript, Python</a>
+</p>
+

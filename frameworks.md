@@ -145,7 +145,7 @@
 <p>
     <a href="https://github.com/foo123/RT"><img alt="logo for this project" src="https://foo123.github.io/thumbs/rt.jpg" width="300"></a>
     <br>  
-    <a href="https://github.com/foo123/RT"><b>RT</b>: a versatile <b>real-time client communication</b> for JavaScript supporting <b>Poll, BOSH and Web Sockets</b></a>
+    <a href="https://github.com/foo123/RT"><b>RT</b>: a versatile <b>real-time communication client</b> for JavaScript supporting <b>Poll, BOSH and Web Sockets</b></a>
 </p>
 
 <p>

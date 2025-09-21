@@ -37,6 +37,10 @@
     Graphics, Animation, 3D, Transition Libraries, Slideshows, ..
 
 
+* [Networking / Real-Time Communication / HTTP / AJAX](https://github.com/foo123/foo123/blob/master/networking.md)  
+    Networking, Real-Time Communication, HTTP and AJAX Frameworks, ..
+
+
 * [Plugins / Add-Ons](https://github.com/foo123/foo123/blob/master/plugins.md)  
     Plugins, Add-Ons, Extensions, Modules, Scripts, ..
 

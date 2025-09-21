@@ -23,6 +23,12 @@
 </p>
 
 <p>
+    <a href="https://github.com/foo123/Importer"><img alt="logo for this project" src="https://foo123.github.io/thumbs/importer.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/Importer"><b>Importer</b>: a simple and versatile class and asset dependency manager and loader for PHP, JavaScript, Python</a>
+</p>
+
+<p>
     <a href="https://github.com/foo123/Dromeo"><img alt="logo for this project" src="https://foo123.github.io/thumbs/dromeo2.jpg" width="300"></a>
     <br>  
     <a href="https://github.com/foo123/Dromeo"><b>Dromeo</b>: a simple, versatile, barebones <b>pattern router</b> for PHP, JavaScript, Python</a>

@@ -37,7 +37,7 @@
 <p>
     <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/pattern-matching-algorithms.jpg" width="300"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Pattern.js</b>: a <b>library of pattern-matching algorithms</b> implementations and utilities (IN PROGRESS)</a>
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Pattern.js</b>: tests of <b>pattern-matching algorithms</b> in JavaScript</a>
 </p>
 
 <p>

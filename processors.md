@@ -83,6 +83,12 @@
 </p>
 
 <p>
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/pattern-matching-algorithms.jpg" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Pattern.js</b>: tests of <b>pattern-matching algorithms</b> in JavaScript</a>
+</p>
+
+<p>
     <a href="https://github.com/foo123/GrammarTree"><img alt="logo for this project" src="https://foo123.github.io/thumbs/grammartree.jpg" width="300"></a>
     <br>  
     <a href="https://github.com/foo123/GrammarTree"><b>GrammarTree</b>: grammar to abstract syntax tree (AST) <b>generic parser</b> for PHP, JavaScript, Python (IN PROGRESS)</a>

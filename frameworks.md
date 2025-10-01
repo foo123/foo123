@@ -239,15 +239,27 @@
 </p>
 
 <p>
-    <a href="https://foo123.github.io/examples/sorting-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/sort.jpg" width="300"></a>
+    <a href="https://github.com/foo123/Fuzzion"><img alt="logo for this project" src="https://foo123.github.io/thumbs/fuzzion.png" width="300"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/sorting-algorithms/"><b>Sort.js</b>: a <b>library of sorting algorithms</b> implementations and utilities</a>
+    <a href="https://github.com/foo123/Fuzzion"><b>Fuzzion</b>: fuzzy / approximate string matching metrics for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/matchy.jpg" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Matchy</b>: string searching algorithms for PHP, JavaScript, Python</a>
 </p>
 
 <p>
     <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/pattern-matching-algorithms.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Pattern.js</b>: tests of <b>pattern-matching algorithms</b> in JavaScript</a>
+</p>
+
+<p>
+    <a href="https://foo123.github.io/examples/sorting-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/sort.jpg" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/sorting-algorithms/"><b>Sort.js</b>: a <b>library of sorting algorithms</b> implementations and utilities</a>
 </p>
 
 <p>

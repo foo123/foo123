@@ -1,5 +1,5 @@
 
-<h2 id="mycat_processors">Engines / Processors / Pattern Processing</h2> 
+<h2 id="mycat_processors">Engines / Processors / Pattern Processing / Fuzzy Matching</h2> 
 
 [Example Page](https://foo123.github.io/examples/#controller_page_processors)  
  
@@ -80,6 +80,18 @@
     <a href="https://foo123.github.io/examples/grammar-template/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/grammtpl.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/grammar-template/"><b>GrammarTemplate</b>: a versatile and intuitive <b>grammar-based template engine</b> for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/Fuzzion"><img alt="logo for this project" src="https://foo123.github.io/thumbs/fuzzion.png" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/Fuzzion"><b>Fuzzion</b>: fuzzy / approximate string matching metrics for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/matchy.jpg" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Matchy</b>: string searching algorithms for PHP, JavaScript, Python</a>
 </p>
 
 <p>

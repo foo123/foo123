@@ -29,18 +29,6 @@
 </p>
 
 <p>
-    <a href="https://foo123.github.io/examples/sorting-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/sort.jpg" width="300"></a>
-    <br>  
-    <a href="https://foo123.github.io/examples/sorting-algorithms/"><b>Sort.js</b>: a <b>library of sorting algorithms</b> implementations and utilities</a>
-</p>
-
-<p>
-    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/pattern-matching-algorithms.jpg" width="300"></a>
-    <br>  
-    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Pattern.js</b>: tests of <b>pattern-matching algorithms</b> in JavaScript</a>
-</p>
-
-<p>
     <a href="https://foo123.github.io/examples/regex-analyzer/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/yo-regex.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/regex-analyzer/"><b>RegexAnalyzer</b>: an intuitive and flexible <b>regular expression analyser</b> for PHP, JavaScript, Python</a>
@@ -50,6 +38,18 @@
     <a href="https://foo123.github.io/examples/regex-composer/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/yo-regex-composer.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/regex-composer/"><b>RegexComposer</b>: an intuitive <b>regular expression composer</b> for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/Fuzzion"><img alt="logo for this project" src="https://foo123.github.io/thumbs/fuzzion.png" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/Fuzzion"><b>Fuzzion</b>: fuzzy / approximate string matching metrics for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://foo123.github.io/examples/sorting-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/sort.jpg" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/sorting-algorithms/"><b>Sort.js</b>: a <b>library of sorting algorithms</b> implementations and utilities</a>
 </p>
 
 <p>

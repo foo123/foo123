@@ -25,8 +25,8 @@
     Signal Processing, Image / Video Processing, Feature Detection, Computer Vision, DSP, Machine Learning, Sound Visualization, ..
 
 
-* [Engines / Processors / Pattern Processing](https://github.com/foo123/foo123/blob/master/processors.md)  
-    Pattern Processing, Parsers, Processors, Template Engines, Grammars, ..
+* [Engines / Processors / Pattern Processing / Fuzzy Matching](https://github.com/foo123/foo123/blob/master/processors.md)  
+    Pattern Processing, Parsers, Processors, Fuzzy Matching, Template Engines, Grammars, ..
 
 
 * [Mathematics / Combinatorics / Logic / Optimization](https://github.com/foo123/foo123/blob/master/math.md)  

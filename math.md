@@ -41,6 +41,12 @@
 </p>
 
 <p>
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/matchy.jpg" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Matchy</b>: exact and fuzzy string searching algorithms for PHP, JavaScript, Python</a>
+</p>
+
+<p>
     <a href="https://github.com/foo123/Fuzzion"><img alt="logo for this project" src="https://foo123.github.io/thumbs/fuzzion.png" width="300"></a>
     <br>  
     <a href="https://github.com/foo123/Fuzzion"><b>Fuzzion</b>: fuzzy / approximate string matching metrics for PHP, JavaScript, Python</a>

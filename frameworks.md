@@ -71,12 +71,6 @@
 </p>
 
 <p>
-    <a href="https://github.com/foo123/simple-captcha"><img alt="logo for this project" src="https://foo123.github.io/thumbs/simple-captcha.jpg" width="300"></a>
-    <br>  
-    <a href="https://github.com/foo123/simple-captcha"><b>SimpleCaptcha</b>: a simple, image-based, mathematical <b>captcha</b> for PHP, JavaScript, Python</a>
-</p>
-
-<p>
     <a href="https://github.com/foo123/Unicache"><img alt="logo for this project" src="https://foo123.github.io/thumbs/unicache.jpg" width="300"></a>
     <br>  
     <a href="https://github.com/foo123/Unicache"><b>Unicache</b>: a universal, agnostic, flexible <b>caching framework</b> for PHP, JavaScript, Python</a>
@@ -98,6 +92,12 @@
     <a href="https://github.com/foo123/DialectORM"><img alt="logo for this project" src="https://foo123.github.io/thumbs/dialectorm.jpg" width="300"></a>
     <br>  
     <a href="https://github.com/foo123/DialectORM"><b>DialectORM</b>: a simple, fast, and versatile <b>object-relational-mapper (ORM) framework</b> for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/simple-captcha"><img alt="logo for this project" src="https://foo123.github.io/thumbs/simple-captcha.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/simple-captcha"><b>SimpleCaptcha</b>: a simple, image-based, mathematical <b>captcha</b> for PHP, JavaScript, Python</a>
 </p>
 
 <p>
@@ -131,15 +131,33 @@
 </p>
 
 <p>
-    <a href="https://github.com/foo123/classy.js"><img alt="logo for this project" src="https://foo123.github.io/thumbs/classy2.jpg" width="300"></a>
+    <a href="https://github.com/foo123/Fuzzion"><img alt="logo for this project" src="https://foo123.github.io/thumbs/fuzzion.png" width="300"></a>
     <br>  
-    <a href="https://github.com/foo123/classy.js"><b>classy.js</b>: an object-oriented mini framework for JavaScript</a>
+    <a href="https://github.com/foo123/Fuzzion"><b>Fuzzion</b>: fuzzy / approximate string similarity metrics for PHP, JavaScript, Python</a>
 </p>
 
 <p>
-    <a href="https://github.com/foo123/asynchronous.js"><img alt="logo for this project" src="https://foo123.github.io/thumbs/asynchronous2.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/matchy.jpg" width="300"></a>
     <br>  
-    <a href="https://github.com/foo123/asynchronous.js"><b>Asynchronous</b>: a simple manager for <b>asynchronous and parallelized</b> tasks for JavaScript</a>
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Matchy</b>: exact and fuzzy string searching algorithms for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/pattern-matching-algorithms.jpg" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Pattern.js</b>: tests of <b>pattern-matching algorithms</b> in JavaScript</a>
+</p>
+
+<p>
+    <a href="https://foo123.github.io/examples/sorting-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/sort.jpg" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/sorting-algorithms/"><b>Sort.js</b>: a <b>library of sorting algorithms</b> implementations and utilities</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/LiteSeek"><img alt="logo for this project" src="https://foo123.github.io/thumbs/liteseek.png" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/LiteSeek"><b>LiteSeek</b>: a lite, fast and versatile <b>fuzzy full-text search engine</b> for PHP, JavaScript, Python (IN PROGRESS)</a>
 </p>
 
 <p>
@@ -155,45 +173,9 @@
 </p>
 
 <p>
-    <a href="https://foo123.github.io/examples/area-select/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/area-select.jpg" width="300"></a>
+    <a href="https://github.com/foo123/asynchronous.js"><img alt="logo for this project" src="https://foo123.github.io/thumbs/asynchronous2.jpg" width="300"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/area-select/"><b>AreaSelect.js</b>: select rectangular regions easily in DOM elements</a>
-</p>
-
-<p>
-    <a href="https://foo123.github.io/examples/area-sortable/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/area-sortable.jpg" width="300"></a>
-    <br>  
-    <a href="https://foo123.github.io/examples/area-sortable/"><b>AreaSortable.js</b>: sort items of an area using <b>drag-and-drop</b> for Desktop and Mobile browsers</a>
-</p>
-
-<p>
-    <a href="https://foo123.github.io/examples/infopopup/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/infopopup.jpg" width="300"></a>
-    <br>  
-    <a href="https://foo123.github.io/examples/infopopup/"><b>InfoPopup.js</b>: show info popups simply and easily for Desktop and Mobile browsers</a>
-</p>
-
-<p>
-    <a href="https://foo123.github.io/examples/imagik/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/imagik.jpg" width="300"></a>
-    <br>  
-    <a href="https://foo123.github.io/examples/imagik/"><b>Imagik</b>: a fully featured and extendable <b>responsive CSS3 slideshow</b></a>
-</p>
-
-<p>
-    <a href="https://foo123.github.io/examples/touchtouch/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/touchtouch.jpg" width="300"></a>
-    <br>  
-    <a href="https://foo123.github.io/examples/touchtouch/"><b>touchTouch</b>: an optimized Desktop and Mobile <b>photo gallery</b></a>
-</p>
-
-<p>
-    <a href="https://foo123.github.io/examples/minislider/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/minislider.jpg" width="300"></a>
-    <br>  
-    <a href="https://foo123.github.io/examples/minislider/"><b>minislider</b>: an optimized Desktop and Mobile <b>mini responsive slider</b></a>
-</p>
-
-<p>
-    <a href="https://foo123.github.io/examples/minicarousel/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/minicarousel.png" width="300"></a>
-    <br>  
-    <a href="https://foo123.github.io/examples/minicarousel/"><b>minicarousel</b>: an optimized <b>mini responsive carousel</b> for Desktop and Mobile</a>
+    <a href="https://github.com/foo123/asynchronous.js"><b>Asynchronous</b>: a simple manager for <b>asynchronous and parallelized</b> tasks for JavaScript</a>
 </p>
 
 <p>
@@ -239,38 +221,62 @@
 </p>
 
 <p>
-    <a href="https://github.com/foo123/Fuzzion"><img alt="logo for this project" src="https://foo123.github.io/thumbs/fuzzion.png" width="300"></a>
+    <a href="https://foo123.github.io/examples/area-select/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/area-select.jpg" width="300"></a>
     <br>  
-    <a href="https://github.com/foo123/Fuzzion"><b>Fuzzion</b>: fuzzy / approximate string matching metrics for PHP, JavaScript, Python</a>
+    <a href="https://foo123.github.io/examples/area-select/"><b>AreaSelect.js</b>: select rectangular regions easily in DOM elements</a>
 </p>
 
 <p>
-    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/matchy.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/area-sortable/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/area-sortable.jpg" width="300"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Matchy</b>: exact and fuzzy string searching algorithms for PHP, JavaScript, Python</a>
+    <a href="https://foo123.github.io/examples/area-sortable/"><b>AreaSortable.js</b>: sort items of an area using <b>drag-and-drop</b> for Desktop and Mobile browsers</a>
 </p>
 
 <p>
-    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/pattern-matching-algorithms.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/infopopup/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/infopopup.jpg" width="300"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Pattern.js</b>: tests of <b>pattern-matching algorithms</b> in JavaScript</a>
+    <a href="https://foo123.github.io/examples/infopopup/"><b>InfoPopup.js</b>: show info popups simply and easily for Desktop and Mobile browsers</a>
 </p>
 
 <p>
-    <a href="https://foo123.github.io/examples/sorting-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/sort.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/imagik/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/imagik.jpg" width="300"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/sorting-algorithms/"><b>Sort.js</b>: a <b>library of sorting algorithms</b> implementations and utilities</a>
+    <a href="https://foo123.github.io/examples/imagik/"><b>Imagik</b>: a fully featured and extendable <b>responsive CSS3 slideshow</b></a>
 </p>
 
 <p>
-    <a href="https://github.com/foo123/Beeld"><img alt="logo for this project" src="https://foo123.github.io/thumbs/beeld.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/touchtouch/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/touchtouch.jpg" width="300"></a>
     <br>  
-    <a href="https://github.com/foo123/Beeld"><b>Beeld</b>: a configurable <b>builder tool</b> in PHP, JavaScript, Python</a>
+    <a href="https://foo123.github.io/examples/touchtouch/"><b>touchTouch</b>: an optimized Desktop and Mobile <b>photo gallery</b></a>
+</p>
+
+<p>
+    <a href="https://foo123.github.io/examples/minislider/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/minislider.jpg" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/minislider/"><b>minislider</b>: an optimized Desktop and Mobile <b>mini responsive slider</b></a>
+</p>
+
+<p>
+    <a href="https://foo123.github.io/examples/minicarousel/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/minicarousel.png" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/minicarousel/"><b>minicarousel</b>: an optimized <b>mini responsive carousel</b> for Desktop and Mobile</a>
 </p>
 
 <p>
     <a href="https://foo123.github.io/examples/as3-transitions-lib/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/as3-transitions.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/as3-transitions-lib/"><b>AS3TransitionsLibrary</b>: an ActionScript 3 <b>slideshow transitions library</b> (demo)</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/classy.js"><img alt="logo for this project" src="https://foo123.github.io/thumbs/classy2.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/classy.js"><b>classy.js</b>: an object-oriented mini framework for JavaScript</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/Beeld"><img alt="logo for this project" src="https://foo123.github.io/thumbs/beeld.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/Beeld"><b>Beeld</b>: a configurable <b>builder tool</b> in PHP, JavaScript, Python</a>
 </p>
 

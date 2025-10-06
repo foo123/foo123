@@ -49,7 +49,7 @@
 <p>
     <a href="https://github.com/foo123/Fuzzion"><img alt="logo for this project" src="https://foo123.github.io/thumbs/fuzzion.png" width="300"></a>
     <br>  
-    <a href="https://github.com/foo123/Fuzzion"><b>Fuzzion</b>: fuzzy / approximate string matching metrics for PHP, JavaScript, Python</a>
+    <a href="https://github.com/foo123/Fuzzion"><b>Fuzzion</b>: fuzzy / approximate string similarityg metrics for PHP, JavaScript, Python</a>
 </p>
 
 <p>

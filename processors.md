@@ -85,7 +85,7 @@
 <p>
     <a href="https://github.com/foo123/Fuzzion"><img alt="logo for this project" src="https://foo123.github.io/thumbs/fuzzion.png" width="300"></a>
     <br>  
-    <a href="https://github.com/foo123/Fuzzion"><b>Fuzzion</b>: fuzzy / approximate string matching metrics for PHP, JavaScript, Python</a>
+    <a href="https://github.com/foo123/Fuzzion"><b>Fuzzion</b>: fuzzy / approximate string similarity metrics for PHP, JavaScript, Python</a>
 </p>
 
 <p>
@@ -98,6 +98,12 @@
     <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/pattern-matching-algorithms.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><b>Pattern.js</b>: tests of <b>pattern-matching algorithms</b> in JavaScript</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/LiteSeek"><img alt="logo for this project" src="https://foo123.github.io/thumbs/liteseek.png" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/LiteSeek"><b>LiteSeek</b>: a lite, fast and versatile <b>fuzzy full-text search engine</b> for PHP, JavaScript, Python (IN PROGRESS)</a>
 </p>
 
 <p>

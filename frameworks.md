@@ -23,60 +23,6 @@
 </p>
 
 <p>
-    <a href="https://github.com/foo123/InTpl"><img alt="logo for this project" src="https://foo123.github.io/thumbs/intpl.jpg" width="300"></a>
-    <br>  
-    <a href="https://github.com/foo123/InTpl"><b>InTpl</b>: a super-simple PHP <b>template engine</b> with inheritance</a>
-</p>
-
-<p>
-    <a href="https://foo123.github.io/examples/htmlwidget/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/htmlwidget.jpg" width="300"></a>
-    <br>  
-    <a href="https://foo123.github.io/examples/htmlwidget/"><b>HtmlWidget</b>: standalone and pluggable optimized <b>HTML widgets</b> for PHP, JavaScript, Python</a>
-</p>
-
-<p>
-    <a href="https://github.com/foo123/Importer"><img alt="logo for this project" src="https://foo123.github.io/thumbs/importer.jpg" width="300"></a>
-    <br>  
-    <a href="https://github.com/foo123/Importer"><b>Importer</b>: a simple and versatile class and asset dependency manager and loader for PHP, JavaScript, Python</a>
-</p>
-
-<p>
-    <a href="https://github.com/foo123/PublishSubscribe"><img alt="logo for this project" src="https://foo123.github.io/thumbs/publishsubscribe2.jpg" width="300"></a>
-    <br>  
-    <a href="https://github.com/foo123/PublishSubscribe"><b>PublishSubscribe</b>: a <b>publish-subscribe pattern</b> implementation for PHP, JavaScript, Python</a>
-</p>
-
-<p>
-    <a href="https://github.com/foo123/Formal"><img alt="logo for this project" src="https://foo123.github.io/thumbs/formal.jpg" width="300"></a>
-    <br>  
-    <a href="https://github.com/foo123/Formal"><b>Formal</b>: a simple and versatile form <b>data validation framework</b> for PHP, JavaScript, Python</a>
-</p>
-
-<p>
-    <a href="https://github.com/foo123/EazyHttp"><img alt="logo for this project" src="https://foo123.github.io/thumbs/eazyhttp.jpg" width="300"></a>
-    <br>  
-    <a href="https://github.com/foo123/EazyHttp"><b>EazyHttp</b>: easy, simple and fast <b>HTTP requests</b> for PHP, JavaScript, Python</a>
-</p>
-
-<p>
-    <a href="https://github.com/foo123/LoginManager"><img alt="logo for this project" src="https://foo123.github.io/thumbs/loginmanager.jpg" width="300"></a>
-    <br>  
-    <a href="https://github.com/foo123/LoginManager"><b>LoginManager</b>: a simple, barebones <b>login manager</b> for PHP, JavaScript, Python</a>
-</p>
-
-<p>
-    <a href="https://github.com/foo123/Localizer"><img alt="logo for this project" src="https://foo123.github.io/thumbs/l10n.png" width="300"></a>
-    <br>  
-    <a href="https://github.com/foo123/Localizer"><b>Localizer</b>: a simple and versatile <b>localization (l10n/i18n)</b> class for PHP, JavaScript, Python</a>
-</p>
-
-<p>
-    <a href="https://github.com/foo123/Unicache"><img alt="logo for this project" src="https://foo123.github.io/thumbs/unicache.jpg" width="300"></a>
-    <br>  
-    <a href="https://github.com/foo123/Unicache"><b>Unicache</b>: a universal, agnostic, flexible <b>caching framework</b> for PHP, JavaScript, Python</a>
-</p>
-
-<p>
     <a href="https://github.com/foo123/Dromeo"><img alt="logo for this project" src="https://foo123.github.io/thumbs/dromeo2.jpg" width="300"></a>
     <br>  
     <a href="https://github.com/foo123/Dromeo"><b>Dromeo</b>: a simple, versatile, barebones <b>pattern router</b> for PHP, JavaScript, Python</a>
@@ -92,6 +38,66 @@
     <a href="https://github.com/foo123/DialectORM"><img alt="logo for this project" src="https://foo123.github.io/thumbs/dialectorm.jpg" width="300"></a>
     <br>  
     <a href="https://github.com/foo123/DialectORM"><b>DialectORM</b>: a simple, fast, and versatile <b>object-relational-mapper (ORM) framework</b> for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/Formal"><img alt="logo for this project" src="https://foo123.github.io/thumbs/formal.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/Formal"><b>Formal</b>: a simple and versatile form <b>data validation framework</b> for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/Unicache"><img alt="logo for this project" src="https://foo123.github.io/thumbs/unicache.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/Unicache"><b>Unicache</b>: a universal, agnostic, flexible <b>caching framework</b> for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/EazyHttp"><img alt="logo for this project" src="https://foo123.github.io/thumbs/eazyhttp.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/EazyHttp"><b>EazyHttp</b>: easy, simple and fast <b>HTTP requests</b> for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/LoginManager"><img alt="logo for this project" src="https://foo123.github.io/thumbs/loginmanager.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/LoginManager"><b>LoginManager</b>: a simple, barebones <b>login manager</b> for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/InTpl"><img alt="logo for this project" src="https://foo123.github.io/thumbs/intpl.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/InTpl"><b>InTpl</b>: a super-simple PHP <b>template engine</b> with inheritance</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/Importer"><img alt="logo for this project" src="https://foo123.github.io/thumbs/importer.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/Importer"><b>Importer</b>: a simple and versatile class and asset dependency manager and loader for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/PublishSubscribe"><img alt="logo for this project" src="https://foo123.github.io/thumbs/publishsubscribe2.jpg" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/PublishSubscribe"><b>PublishSubscribe</b>: a <b>publish-subscribe pattern</b> implementation for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/Paginator"><img alt="logo for this project" src="https://foo123.github.io/thumbs/paginator.png" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/Paginator"><b>Paginator</b>: a flexible pagination class for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/Localizer"><img alt="logo for this project" src="https://foo123.github.io/thumbs/l10n.png" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/Localizer"><b>Localizer</b>: a simple and versatile <b>localization (l10n/i18n)</b> class for PHP, JavaScript, Python</a>
+</p>
+
+<p>
+    <a href="https://foo123.github.io/examples/htmlwidget/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/htmlwidget.jpg" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/htmlwidget/"><b>HtmlWidget</b>: standalone and pluggable optimized <b>HTML widgets</b> for PHP, JavaScript, Python</a>
 </p>
 
 <p>

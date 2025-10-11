@@ -31,7 +31,7 @@
 <p>
     <a href="https://github.com/foo123/Dialect"><img alt="logo for this project" src="https://foo123.github.io/thumbs/dialect.jpg" width="300"></a>
     <br>  
-    <a href="https://github.com/foo123/Dialect"><b>Dialect</b>: a flexible cross-platfrom and cross-vendor <b>SQL query builder</b> for PHP, JavaScript, Python</a>
+    <a href="https://github.com/foo123/Dialect"><b>Dialect</b>: a flexible cross-platform and cross-vendor <b>SQL query builder</b> for PHP, JavaScript, Python</a>
 </p>
 
 <p>
@@ -218,6 +218,12 @@
     <a href="https://github.com/foo123/CanvasLite"><img alt="logo for this project" src="https://foo123.github.io/thumbs/canvaslite.png" width="300"></a>
     <br>  
     <a href="https://github.com/foo123/CanvasLite"><b>CanvasLite</b>: a <b>lite canvas alternative</b> in pure JavaScript for browser and nodejs</a>
+</p>
+
+<p>
+    <a href="https://foo123.github.io/examples/gradient"><img alt="logo for this project" src="https://foo123.github.io/thumbs/gradient.png" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/gradient"><b>Gradient</b>: create linear, radial, conic and elliptic gradients without canvas</a>
 </p>
 
 <p>

@@ -71,6 +71,12 @@
 </p>
 
 <p>
+    <a href="https://foo123.github.io/examples/gradient"><img alt="logo for this project" src="https://foo123.github.io/thumbs/gradient.png" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/gradient"><b>Gradient</b>: create linear, radial, conic and elliptic gradients without canvas</a>
+</p>
+
+<p>
     <a href="https://foo123.github.io/examples/flipbook3/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/flipbook3.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/flipbook3/"><b>Real 3D Flipbook</b> with <b>MOD3.js</b> and <b>Three.js</b></a>

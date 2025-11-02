@@ -11,6 +11,12 @@
 </p>
 
 <p>
+    <a href="https://foo123.github.io/examples/abacus-repl/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/abacus-repl.png" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/abacus-repl/"><b>Abacus REPL</b>: a simple REPL for symbolic computations for the computer algebra system Abacus</a>
+</p>
+
+<p>
     <a href="https://foo123.github.io/examples/todomvc/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/modelview-todomvc.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/todomvc/"><b>TodoMVC</b> with <b>ModelView.js</b></a>

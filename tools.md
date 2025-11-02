@@ -17,6 +17,12 @@
 </p>
 
 <p>
+    <a href="https://foo123.github.io/examples/abacus-repl/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/abacus-repl.png" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/abacus-repl/"><b>Abacus REPL</b>: a simple REPL for symbolic computations for the computer algebra system Abacus</a>
+</p>
+
+<p>
     <a href="https://foo123.github.io/examples/css-minifier/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/cssmin.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/css-minifier/"><b>CSSMinifier</b>: an online <b>CSS Processor and Minifier</b> tool</a>

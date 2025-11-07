@@ -101,9 +101,9 @@
 </p>
 
 <p>
-    <a href="https://github.com/foo123/simple-captcha"><img alt="logo for this project" src="https://foo123.github.io/thumbs/simple-captcha.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/simple-captcha"><img alt="logo for this project" src="https://foo123.github.io/thumbs/simple-captcha.jpg" width="300"></a>
     <br>  
-    <a href="https://github.com/foo123/simple-captcha"><b>SimpleCaptcha</b>: a simple, image-based, mathematical <b>captcha</b> for PHP, JavaScript, Python</a>
+    <a href="https://foo123.github.io/examples/simple-captcha"><b>SimpleCaptcha</b>: a simple, image-based, mathematical <b>captcha</b> for PHP, JavaScript, Python</a>
 </p>
 
 <p>

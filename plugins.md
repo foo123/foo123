@@ -1,5 +1,5 @@
 
-<h2 id="mycat_plugins">Plugins / Add-Ons</h2> 
+<h2 id="mycat_plugins">Plugins / Add-Ons / Widgets</h2> 
 
 [Example Page](https://foo123.github.io/examples/#controller_page_plugins)  
  
@@ -49,13 +49,19 @@
 <p>
     <a href="https://github.com/foo123/Pikadaytime"><img alt="logo for this project" src="https://foo123.github.io/thumbs/pikadaytime.png" width="300"></a>
     <br>  
-    <a href="https://github.com/foo123/Pikadaytime"><b>Pikadaytime</b>: a simple and versatile <b>Date/Time widget</b> for JavaScript</a>
+    <a href="https://github.com/foo123/Pikadaytime"><b>Pikadaytime</b>: an extended, optimized, no dependencies, version of github.com/Pikaday/Pikaday</a>
 </p>
 
 <p>
     <a href="https://github.com/foo123/ColorPicker"><img alt="logo for this project" src="https://foo123.github.io/thumbs/colorpicker.png" width="300"></a>
     <br>  
-    <a href="https://github.com/foo123/ColorPicker"><b>ColorPicker</b>: a simple and versatile <b>Color Picker widget</b> for JavaScript</a>
+    <a href="https://github.com/foo123/ColorPicker"><b>ColorPicker</b>: an extended, optimized, no dependencies, version of the <b>excellent</b> www.eyecon.ro/colorpicker</a>
+</p>
+
+<p>
+    <a href="https://github.com/foo123/humane2.js"><img alt="logo for this project" src="https://foo123.github.io/thumbs/humane.png" width="300"></a>
+    <br>  
+    <a href="https://github.com/foo123/humane2.js"><b>humane2.js</b>: an extended and simplified version of the <b>excellent</b> github.com/wavded/humane-js</a>
 </p>
 
 <p>

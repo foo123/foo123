@@ -41,8 +41,8 @@
     Networking, Real-Time Communication, HTTP and AJAX Frameworks, ..
 
 
-* [Plugins / Add-Ons](https://github.com/foo123/foo123/blob/master/plugins.md)  
-    Plugins, Add-Ons, Extensions, Modules, Scripts, ..
+* [Plugins / Add-Ons / Widgets](https://github.com/foo123/foo123/blob/master/plugins.md)  
+    Plugins, Add-Ons, Extensions, Widgets, Modules, Scripts, ..
 
 
 * [Demo Applications](https://github.com/foo123/foo123/blob/master/apps.md)  

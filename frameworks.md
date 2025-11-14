@@ -257,12 +257,6 @@
 </p>
 
 <p>
-    <a href="https://foo123.github.io/examples/touchtouch/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/touchtouch.jpg" width="300"></a>
-    <br>  
-    <a href="https://foo123.github.io/examples/touchtouch/"><b>touchTouch</b>: an optimized Desktop and Mobile <b>photo gallery</b></a>
-</p>
-
-<p>
     <a href="https://foo123.github.io/examples/minislider/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/minislider.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/minislider/"><b>minislider</b>: an optimized Desktop and Mobile <b>mini responsive slider</b></a>

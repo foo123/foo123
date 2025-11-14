@@ -13,7 +13,7 @@
 <p>
     <a href="https://foo123.github.io/examples/touchtouch/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/touchtouch.jpg" width="300"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/touchtouch/"><b>touchTouch</b>: an optimized Desktop and Mobile <b>photo gallery</b></a>
+    <a href="https://foo123.github.io/examples/touchtouch/"><b>touchTouch</b>: an enhanced and optimized, no dependencies, Desktop and Mobile version of the <b>excellent</b> github.com/tutorialzine/touchTouch</a>
 </p>
 
 <p>

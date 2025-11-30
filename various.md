@@ -23,6 +23,12 @@
 </p>
 
 <p>
+    <a href="https://foo123.github.io/examples/scilite/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/scilite.png" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/scilite/"><b>SciLite</b>: a <b>scientific computing environment</b> similar to Octave/Matlab in pure JavaScript</a>
+</p>
+
+<p>
     <a href="https://foo123.github.io/examples/sorting-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/sorting-algorithms.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/sorting-algorithms/">Study and analysis of various <b>Sorting Algorithms</b> in JavaScript</a>

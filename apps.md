@@ -17,6 +17,12 @@
 </p>
 
 <p>
+    <a href="https://foo123.github.io/examples/scilite/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/scilite.png" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/scilite/"><b>SciLite</b>: a <b>scientific computing environment</b> similar to Octave/Matlab in pure JavaScript</a>
+</p>
+
+<p>
     <a href="https://foo123.github.io/examples/todomvc/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/modelview-todomvc.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/todomvc/"><b>TodoMVC</b> with <b>ModelView.js</b></a>

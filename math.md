@@ -17,6 +17,12 @@
 </p>
 
 <p>
+    <a href="https://foo123.github.io/examples/scilite/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/scilite.png" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/scilite/"><b>SciLite</b>: a <b>scientific computing environment</b> similar to Octave/Matlab in pure JavaScript</a>
+</p>
+
+<p>
     <a href="https://github.com/foo123/TensorView"><img alt="logo for this project" src="https://foo123.github.io/thumbs/tensorview.jpg" width="300"></a>
     <br>  
     <a href="https://github.com/foo123/TensorView"><b>TensorView</b>: view arbitrary array data as multidimensional tensors of various shapes and slices efficiently</a>

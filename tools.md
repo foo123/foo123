@@ -23,6 +23,12 @@
 </p>
 
 <p>
+    <a href="https://foo123.github.io/examples/scilite/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/scilite.png" width="300"></a>
+    <br>  
+    <a href="https://foo123.github.io/examples/scilite/"><b>SciLite</b>: a <b>scientific computing environment</b> similar to Octave/Matlab in pure JavaScript</a>
+</p>
+
+<p>
     <a href="https://foo123.github.io/examples/css-minifier/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/cssmin.jpg" width="300"></a>
     <br>  
     <a href="https://foo123.github.io/examples/css-minifier/"><b>CSSMinifier</b>: an online <b>CSS Processor and Minifier</b> tool</a>

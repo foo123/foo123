@@ -1,5 +1,5 @@
 
-<h2 id="mycat_math">Mathematics / Combinatorics / Logic / Optimization</h2> 
+<h2 id="mycat_math">Mathematics / Scientific Computation / Optimization</h2> 
 
 [Example Page](https://foo123.github.io/examples/#controller_page_math)  
  

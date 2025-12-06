@@ -1,5 +1,5 @@
 
-<h2 id="mycat_various">Various experiments</h2> 
+<h2 id="mycat_various">Various Experiments</h2> 
 
 [Example Page](https://foo123.github.io/examples/#controller_page_various)  
  

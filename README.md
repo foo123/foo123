@@ -22,15 +22,15 @@
 
 
 * [DSP / Machine Learning](https://github.com/foo123/foo123/blob/master/dsp.md)  
-    Signal Processing, Image / Video Processing, Feature Detection, Computer Vision, DSP, Machine Learning, Sound Visualization, ..
+    DSP, Signal Processing, Image / Video Processing, Feature Detection, Computer Vision, Machine Learning, Sound Visualization, ..
 
 
 * [Engines / Processors / Pattern Processing / Fuzzy Matching](https://github.com/foo123/foo123/blob/master/processors.md)  
-    Pattern Processing, Parsers, Processors, Fuzzy Matching, Template Engines, Grammars, ..
+    Pattern Processing, Parsers, Grammars, Fuzzy Matching, Processors, Template Engines, ..
 
 
-* [Mathematics / Combinatorics / Logic / Optimization](https://github.com/foo123/foo123/blob/master/math.md)  
-    Combinatorics, Mathematics, Logic, Constraints, Optimization, ..
+* [Mathematics / Scientific Computation / Optimization](https://github.com/foo123/foo123/blob/master/math.md)  
+    Mathematics, Scientific Computation, Symbolic Computation, Combinatorics, Logic, Constraints, Optimization, ..
 
 
 * [Graphics / 3D / Animation](https://github.com/foo123/foo123/blob/master/graphics.md)  
@@ -57,7 +57,7 @@
     Various Tools and Scripts for automation tasks..
 
 
-* [Various experiments](https://github.com/foo123/foo123/blob/master/various.md)  
+* [Various Experiments](https://github.com/foo123/foo123/blob/master/various.md)  
     Various experiments, studies, demos, ..
 
 

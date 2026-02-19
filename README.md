@@ -9,6 +9,8 @@
   
 <a href="https://stackoverflow.com/users/3591273/nikos-m"><img src="https://stackexchange.com/users/flair/4021056.png" width="208" height="58" alt="profile for Nikos M. on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Nikos M. on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>  
   
+* `foo` : *An term used for unimportant variables in programming when the programmer is too lazy to think of an actual name.* [Urban Dictionary](http://www.urbandictionary.com/define.php?term=foo)
+* `foo123` : *A workaround when the name `foo` is already taken.*
   
 ### Open Source Projects
 

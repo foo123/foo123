@@ -20,7 +20,7 @@
   
 <table>
 
-<tr><td>
+<tr><td valign="top">
 
 <p>
     <a href="https://foo123.github.io/examples/#controller_page_frameworks"><img alt="logo image for category Frameworks / Libraries" src="https://foo123.github.io/thumbs/contemplate-1.jpg" width="150"></a>
@@ -32,7 +32,7 @@
 
 </td>
 
-<td>
+<td valign="top">
 
 <p>
     <a href="https://foo123.github.io/examples/#controller_page_dsp"><img alt="logo image for category DSP / Machine Learning" src="https://foo123.github.io/thumbs/filter.jpg" width="150"></a>
@@ -44,7 +44,7 @@
 
 </td></tr>
 
-<tr><td>
+<tr><td valign="top">
 
 <p>
     <a href="https://foo123.github.io/examples/#controller_page_processors"><img alt="logo image for category Engines / Processors / Pattern Processing / Fuzzy Matching" src="https://foo123.github.io/thumbs/yo-regex.jpg" width="150"></a>
@@ -56,7 +56,7 @@
 
 </td>
 
-<td>
+<td valign="top">
 
 <p>
     <a href="https://foo123.github.io/examples/#controller_page_math"><img alt="logo image for category Mathematics / Scientific Computation / Optimization" src="https://foo123.github.io/thumbs/abacus.jpg" width="150"></a>
@@ -68,7 +68,7 @@
 
 </td></tr>
 
-<tr><td>
+<tr><td valign="top">
 
 <p>
     <a href="https://foo123.github.io/examples/#controller_page_graphics"><img alt="logo image for category Graphics / 3D / Animation" src="https://foo123.github.io/thumbs/carousel3.jpg" width="150"></a>
@@ -80,7 +80,7 @@
 
 </td>
 
-<td>
+<td valign="top">
 
 <p>
     <a href="https://foo123.github.io/examples/#controller_page_networking"><img alt="logo image for category Networking / Real-Time Communication / HTTP / AJAX" src="https://foo123.github.io/thumbs/rt.jpg" width="150"></a>
@@ -92,7 +92,7 @@
 
 </td></tr>
 
-<tr><td>
+<tr><td valign="top">
 
 <p>
     <a href="https://foo123.github.io/examples/#controller_page_plugins"><img alt="logo image for category Plugins / Add-Ons / Widgets" src="https://foo123.github.io/thumbs/plugins.jpg" width="150"></a>
@@ -104,7 +104,7 @@
 
 </td>
 
-<td>
+<td valign="top">
 
 <p>
     <a href="https://foo123.github.io/examples/#controller_page_apps"><img alt="logo image for category Demo Applications" src="https://foo123.github.io/thumbs/sorting-algorithms.jpg" width="150"></a>
@@ -116,7 +116,7 @@
 
 </td></tr>
 
-<tr><td>
+<tr><td valign="top">
 
 <p>
     <a href="https://foo123.github.io/examples/#controller_page_games"><img alt="logo image for category Simple Games" src="https://foo123.github.io/thumbs/billiard.jpg" width="150"></a>
@@ -128,7 +128,7 @@
 
 </td>
 
-<td>
+<td valign="top">
 
 <p>
     <a href="https://foo123.github.io/examples/#controller_page_tools"><img alt="logo image for category Tools / Scripts" src="https://foo123.github.io/thumbs/tools.jpg" width="150"></a>
@@ -140,7 +140,7 @@
 
 </td></tr>
 
-<tr><td>
+<tr><td valign="top">
 
 <p>
     <a href="https://foo123.github.io/examples/#controller_page_various"><img alt="logo image for category Various Experiments" src="https://foo123.github.io/thumbs/optimization-methods.jpg" width="150"></a>
@@ -152,7 +152,7 @@
 
 </td>
 
-<td>
+<td valign="top">
 
 &nbsp;
 

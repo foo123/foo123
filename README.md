@@ -4,13 +4,15 @@
 **Code Artist ● Architect ● Musician**  
   
   
-[GitHub](https://github.com/foo123) • [StackOverflow](https://stackoverflow.com/users/3591273/nikos-m) • [#Standup4HumanRights](https://www.standup4humanrights.org/en/index.html)
+[GitHub](https://github.com/foo123) • [StackOverflow](https://stackoverflow.com/users/3591273/nikos-m)
   
   
 <a href="https://stackoverflow.com/users/3591273/nikos-m"><img src="https://stackexchange.com/users/flair/4021056.png" width="208" height="58" alt="profile for Nikos M. on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Nikos M. on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>  
   
 * `foo` : *An term used for unimportant variables in programming when the programmer is too lazy to think of an actual name.* [Urban Dictionary](http://www.urbandictionary.com/define.php?term=foo)
 * `foo123` : *A workaround when the name `foo` is already taken.*
+  
+*Cause until the philosophy, which holds one superior and another inferior, is finally, and permanently, discredited and abandoned..* [#Standup4HumanRights](https://www.standup4humanrights.org/en/index.html)
   
 ### Open Source Projects
 

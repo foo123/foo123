@@ -12,7 +12,7 @@
 * `foo` : *An term used for unimportant variables in programming when the programmer is too lazy to think of an actual name.* [Urban Dictionary](http://www.urbandictionary.com/define.php?term=foo)
 * `foo123` : *A workaround when the name `foo` is already taken.*
   
-*Cause until the philosophy, which holds one superior and another inferior, is finally, and permanently, discredited and abandoned..* [#Standup4HumanRights](https://www.standup4humanrights.org/en/index.html)
+*Cause until the philosophy, which holds one superior and another inferior, is finally, and permanently, discredited and abandoned.. Don't give up the fight..* [#Standup4HumanRights](https://www.standup4humanrights.org/en/index.html)
   
 ### Open Source Projects
 

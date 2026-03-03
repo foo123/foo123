@@ -3,64 +3,532 @@
 
 [Example Page](https://foo123.github.io/examples/#controller_page_various)  
  
+<table>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td valign="top">
 <p>
-    <a href="https://github.com/foo123/code-optimization-methods"><img alt="logo for this project" src="https://foo123.github.io/thumbs/optimization-methods.jpg" width="300"></a>
+    <a href="https://github.com/foo123/code-optimization-methods"><img alt="logo for this project" src="https://foo123.github.io/thumbs/optimization-methods.jpg" width="150"></a>
     <br>  
     <a href="https://github.com/foo123/code-optimization-methods">A summary guide of <b>Code Optimization Methods</b></a>
 </p>
+</td>
 
+
+
+
+
+
+<td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/abacus/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/abacus-live.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/abacus/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/abacus-live.jpg" width="150"></a>
     <br>  
     <a href="https://foo123.github.io/examples/abacus/"><b>Abacus</b>: a <b>computer algebra system</b> for symbolic computations for combinatorics and algebraic number theory for JavaScript and Python</a>
 </p>
+</td>
+</tr>
 
+
+
+
+<tr>
+<td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/abacus-repl/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/abacus-repl.png" width="300"></a>
+    <a href="https://foo123.github.io/examples/abacus-repl/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/abacus-repl.png" width="150"></a>
     <br>  
     <a href="https://foo123.github.io/examples/abacus-repl/"><b>Abacus REPL</b>: a simple REPL for symbolic computations for the computer algebra system Abacus</a>
 </p>
+</td>
 
+
+
+
+
+
+<td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/scilite/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/scilite.png" width="300"></a>
+    <a href="https://foo123.github.io/examples/scilite/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/scilite.png" width="150"></a>
     <br>  
     <a href="https://foo123.github.io/examples/scilite/"><b>SciLite</b>: a <b>scientific computing environment</b> similar to Octave/Matlab in pure JavaScript</a>
 </p>
+</td>
+</tr>
 
+
+
+
+<tr>
+<td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/sorting-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/sorting-algorithms.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/sorting-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/sorting-algorithms.jpg" width="150"></a>
     <br>  
     <a href="https://foo123.github.io/examples/sorting-algorithms/">Study and analysis of various <b>Sorting Algorithms</b> in JavaScript</a>
 </p>
+</td>
 
+
+
+
+
+
+<td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/pattern-matching-algorithms.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/pattern-matching-algorithms/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/pattern-matching-algorithms.jpg" width="150"></a>
     <br>  
     <a href="https://foo123.github.io/examples/pattern-matching-algorithms/">Study and analysis of various <b>Pattern Matching Algorithms</b> in JavaScript</a>
 </p>
+</td>
+</tr>
 
+
+
+
+<tr>
+<td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/regex-analyzer/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/regexanalyser.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/regex-analyzer/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/regexanalyser.jpg" width="150"></a>
     <br>  
     <a href="https://foo123.github.io/examples/regex-analyzer/">Intuitive <b>Regular Expression Analyser</b> for PHP, JavaScript, Python</a>
 </p>
+</td>
 
+
+
+
+
+
+<td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/regex-composer/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/yo-regex-composer.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/regex-composer/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/yo-regex-composer.jpg" width="150"></a>
     <br>  
     <a href="https://foo123.github.io/examples/regex-composer/">Intuitive <b>Regular Expression Composer</b> for PHP, JavaScript, Python</a>
 </p>
+</td>
+</tr>
 
+
+
+
+<tr>
+<td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/dancing-box/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/dancing-box.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/dancing-box/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/dancing-box.jpg" width="150"></a>
     <br>  
     <a href="https://foo123.github.io/examples/dancing-box/">Dancing Box with <b>MOD3.js</b>, <b>Three.js</b> and <b>Dancer.js</b></a>
 </p>
+</td>
 
+
+
+
+
+
+<td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/jquery-google-maps/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/googlemaps-v3.jpg" width="300"></a>
+    <a href="https://foo123.github.io/examples/jquery-google-maps/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/googlemaps-v3.jpg" width="150"></a>
     <br>  
     <a href="https://foo123.github.io/examples/jquery-google-maps/">Google Maps jQuery plugin (v2 and v3)</a>
 </p>
+</td>
+</tr>
 
+
+
+
+
+
+
+
+
+
+
+</table>

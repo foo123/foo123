@@ -650,7 +650,7 @@
 <p>
     <a href="https://foo123.github.io/examples/chess-play/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/chess-play.jpg" width="250"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/chess-play/"><b>Chess</b>: play a game of chess</a>
+    <a href="https://foo123.github.io/examples/chess-play/"><b>chess.js</b>: play a game of chess</a>
 </p>
 </td>
 </tr>

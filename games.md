@@ -355,9 +355,9 @@
 <tr>
 <td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/billiard.js/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/billiard.jpg" width="250"></a>
+    <a href="https://foo123.github.io/examples/sudoku/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/sudoku.jpg" width="250"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/billiard.js/"><b>billiard.js</b>: a sample <b>billiard game</b> in pure JavaScript with Neraliu's NEngine.js</a>
+    <a href="https://foo123.github.io/examples/sudoku/"><b>sudoku.js</b>: a <b>sudoku game, builder and solver</b> in pure JavaScript. Scaled-down version of <b>CrossWord.js</b></a>
 </p>
 </td>
 
@@ -368,9 +368,9 @@
 
 <td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/sudoku/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/sudoku.jpg" width="250"></a>
+    <a href="https://foo123.github.io/examples/chess-play/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/chess-play.jpg" width="250"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/sudoku/"><b>sudoku.js</b>: a <b>sudoku game, builder and solver</b> in pure JavaScript. Scaled-down version of <b>CrossWord.js</b></a>
+    <a href="https://foo123.github.io/examples/chess-play/"><b>chess.js</b>: play a game of chess</a>
 </p>
 </td>
 </tr>
@@ -394,9 +394,9 @@
 
 <td valign="top">
 <p>
-    <a href="https://github.com/foo123/3DRubikCube"><img alt="logo for this project" src="https://foo123.github.io/thumbs/rubik-as3.jpg" width="250"></a>
+    <a href="https://foo123.github.io/examples/billiard.js/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/billiard.jpg" width="250"></a>
     <br>  
-    <a href="https://github.com/foo123/3DRubikCube"><b>3DRubikCube</b>: an intuitive <b>3D Rubik Cube</b> in ActionScript3 with <b>PaperVision3D</b></a>
+    <a href="https://foo123.github.io/examples/billiard.js/"><b>billiard.js</b>: a <b>billiard game</b> in pure JavaScript with Neraliu's NEngine.js</a>
 </p>
 </td>
 </tr>
@@ -407,9 +407,9 @@
 <tr>
 <td valign="top">
 <p>
-    <a href="https://foo123.github.io/examples/chess-play/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/chess-play.jpg" width="250"></a>
+    <a href="https://github.com/foo123/3DRubikCube"><img alt="logo for this project" src="https://foo123.github.io/thumbs/rubik-as3.jpg" width="250"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/chess-play/"><b>chess.js</b>: play a game of chess</a>
+    <a href="https://github.com/foo123/3DRubikCube"><b>3DRubikCube</b>: an intuitive <b>3D Rubik Cube</b> in ActionScript3 with <b>PaperVision3D</b></a>
 </p>
 </td>
 

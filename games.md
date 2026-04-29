@@ -430,6 +430,14 @@
 
 
 
+<tr>
+<td valign="top">
+<p>
+    <a href="https://github.com/foo123/chess.js"><img alt="logo for this project" src="https://foo123.github.io/thumbs/chess.jpg" width="250"></a>
+    <br>  
+    <a href="https://github.com/foo123/chess.js"><b>chess.js</b>: create and practice on a series of <b>chess exercises</b> (TODO)</a>
+</p>
+</td>
 
 
 
@@ -487,4 +495,9 @@
 
 
 
+
+
+
+
+<td>&nbsp;</td></tr>
 </table>

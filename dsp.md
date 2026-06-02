@@ -104,6 +104,10 @@
 
 
 
+
+
+
+
 <tr>
 <td valign="top">
 <p>
@@ -242,6 +246,10 @@
     <a href="https://foo123.github.io/examples/scilite/"><b>SciLite</b>: a <b>scientific computing environment</b> similar to Octave/Matlab/SciPy in pure JavaScript</a>
 </p>
 </td>
+
+
+
+
 
 
 

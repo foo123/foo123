@@ -204,6 +204,10 @@
 
 
 
+
+
+
+
 <tr>
 <td valign="top">
 <p>
@@ -327,6 +331,32 @@
     <a href="https://foo123.github.io/examples/plot/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/plot.jpg" width="250"></a>
     <br>  
     <a href="https://foo123.github.io/examples/plot/"><b>Plot.js</b>: a simple and versatile <b>plotting library</b> for Canvas, SVG and plain HTML</a>
+</p>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td valign="top">
+<p>
+    <a href="https://github.com/foo123/Scene.js"><img alt="logo for this project" src="https://foo123.github.io/thumbs/scene.png" width="250"></a>
+    <br>  
+    <a href="https://github.com/foo123/Scene.js"><b>Scene.js</b>: a simple, performant and versatile Scene Graph API supporting HTML/CSS, SVG and Canvas rendering</a>
+</p>
+</td>
+
+
+
+
+
+
+<td valign="top">
+<p>
+    <a href="https://github.com/foo123/Tween.js"><img alt="logo for this project" src="https://foo123.github.io/thumbs/tween.png" width="250"></a>
+    <br>  
+    <a href="https://github.com/foo123/Tween.js"><b>Tween.js</b>: a versatile and performant Tween API</a>
 </p>
 </td>
 </tr>

@@ -404,7 +404,7 @@
 <p>
     <a href="https://foo123.github.io/examples/billiard.js/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/billiard.jpg" width="250"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/billiard.js/"><b>billiard.js</b>: a <b>billiard game</b> in pure JavaScript with <b>Scene.js</b></a>
+    <a href="https://foo123.github.io/examples/billiard.js/"><b>billiard.js</b>: a <b>billiard game</b> in pure JavaScript with <b>SceneLite.js</b></a>
 </p>
 </td>
 </tr>

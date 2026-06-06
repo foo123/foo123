@@ -479,9 +479,9 @@
 <tr>
 <td valign="top">
 <p>
-    <a href="https://github.com/foo123/Scene.js"><img alt="logo for this project" src="https://foo123.github.io/thumbs/scene.png" width="250"></a>
+    <a href="https://github.com/foo123/SceneLite.js"><img alt="logo for this project" src="https://foo123.github.io/thumbs/scenelite.png" width="250"></a>
     <br>  
-    <a href="https://github.com/foo123/Scene.js"><b>Scene.js</b>: a simple, performant and versatile Scene Graph API supporting HTML/CSS, SVG and Canvas rendering</a>
+    <a href="https://github.com/foo123/SceneLite.js"><b>SceneLite.js</b>: a lite, performant and versatile Scene Graph API supporting HTML/CSS, SVG and Canvas rendering</a>
 </p>
 </td>
 

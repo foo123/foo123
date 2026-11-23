@@ -416,7 +416,7 @@
 <p>
     <a href="https://foo123.github.io/examples/abacus/"><img alt="logo for this project" src="https://foo123.github.io/thumbs/abacus.jpg" width="250"></a>
     <br>  
-    <a href="https://foo123.github.io/examples/abacus/"><b>Abacus</b>: a <b>computer algebra system</b> for symbolic computations for combinatorics and algebraic number theory for JavaScript and Python</a>
+    <a href="https://foo123.github.io/examples/abacus/"><b>Abacus</b>: a <b>computer algebra system</b> for symbolic computations for combinatorics and algebraic number theory for JavaScript</a>
 </p>
 </td>
 </tr>
